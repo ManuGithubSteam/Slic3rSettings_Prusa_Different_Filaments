@@ -26,6 +26,8 @@ Website: http://real-filament.com/pages/products
 
 PETG-Details: http://real-filament.com/pages/product-details?id=2
 
+PET-G (Polyethylene terephthalate) is a very strong, water-repellent material that gives your 3D-prints a beautiful shine. Most people are already familiar with PET as soda bottles. PET-G filament is rapidly increasing in popularity within the 3D-print community because it has the easy characteristics of PLA and the strong durability of ABS.
+
 ## What do you print with?
 
 - Type: PETG (noting else)
