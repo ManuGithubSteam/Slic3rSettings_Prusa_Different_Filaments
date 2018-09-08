@@ -22,9 +22,20 @@ So here is it: My Configs for Slic3er.
 
 ## Filament
 
-- Type: PETG
+Website: http://real-filament.com/pages/products
+
+PETG-Details: http://real-filament.com/pages/product-details?id=2
+
+## What do you print with?
+
+- Type: PETG (noting else)
 - Brand: Real Filament
 - Origin: from the Netherlands
 - Size: 1.75mm
 - Spools: 05.kg and 1kg
 
+## What is the quality like ?
+
+- See the picture folder.
+
+## Tipps
