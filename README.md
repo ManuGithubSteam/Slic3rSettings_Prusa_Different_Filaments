@@ -44,4 +44,4 @@ PETG-Details: http://real-filament.com/pages/product-details?id=2
 
 ## Keywords
 
-slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d printing, Filament Types, "Real Filament", Real Filament slicing settings, "Real Filament slicing settings", "Real Filament settings"
+slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d printing, Filament Types, "Real Filament", Real Filament slicing settings, "Real Filament slicing settings", "Real Filament settings", PET-G / PET (Polyethylene terephthalate), "Real filament print settings"
