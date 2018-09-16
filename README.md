@@ -1,6 +1,7 @@
 # RealFilamentSlic3rSettings
 
-Here i share my configs of my 3d Printer with the Real Filament (PETG) brand, cause there are hard to find.
+Here I share my configs of my 3d Printer with the Real Filament (PETG) brand, cause there are hard to find.
+It a lot of trail an error to get it right.
 
 ## What?
 
