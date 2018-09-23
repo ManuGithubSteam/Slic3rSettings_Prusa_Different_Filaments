@@ -23,6 +23,8 @@ So here is it: My Configs for Slic3er.
 - Type: Slic3rPE (Prusa Slic3r variant)
 - Version: 1.41.0
 
+---------------
+
 ## Filament PETG
 
 Website: http://real-filament.com/pages/products
@@ -39,11 +41,15 @@ PET-G (Polyethylene terephthalate) is a very strong, water-repellent material th
 - Size: 1.75mm
 - Spools: 0.5kg and 1 kg
 
+---------------
+
 ## Filament TPU
 
 Website: https://www.fffworld.com/en/131-flexismart-tpu-filament
 
-TPU Details:https://all3dp.com/2/tpe-filament-explained-and-compared/
+TPU Details: https://www.fffworld.com/documentation/
+
+Printing Guide: https://www.fffworld.com/guias-filamento-3d/EN_FlexiSMART_Amazon_Guide.pdf
 
 Flexible: FlexiSMART is made from a flexible and elastic thermoplastic elastomer (TPE) that allows the printed parts with this material to deform and recover its original shape. FlexiSMART opens new possibilities as it allows printing boards, belts, textile complements and other objects unthinkable with traditional rigid filaments.
 
