@@ -1,11 +1,13 @@
-# RealFilamentSlic3rSettings
+# RealFilament/ FlexiSmart -Slic3rSettings
 
-Here I share my configs of my 3d Printer with the Real Filament (PETG) brand, cause there are hard to find.
+Here I share my configs of my 3d Printer with the Real Filament (PETG) brand and the FlexiSmart TPU brand, cause there are hard to find.
 It a lot of trail an error to get it right.
+
+Be aware, that every printer is dirrent not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3 the best.
 
 ## What?
 
-Its hard to find the perfect settings for filament online. Its even harder, to find setting for the "Real Filement" brand as it is some kind of Noname. 
+Its hard to find the perfect settings for filament online. Its even harder, to find setting for the "Real Filement" brand as it is some kind of Noname. Same goes for FlexiSmat (Their factory Settings are just a start and did not work for me at all.)
 
 But that has is advantages like a lower price and still very good quality.
 
@@ -21,7 +23,7 @@ So here is it: My Configs for Slic3er.
 - Type: Slic3rPE (Prusa Slic3r variant)
 - Version: 1.41.0
 
-## Filament
+## Filament PETG
 
 Website: http://real-filament.com/pages/products
 
@@ -31,11 +33,27 @@ PET-G (Polyethylene terephthalate) is a very strong, water-repellent material th
 
 ## What do you print with?
 
-- Type: PETG (noting else)
+- Type: PETG
 - Brand: Real Filament
-- Origin: from the Netherlands
+- Origin: Netherlands
 - Size: 1.75mm
-- Spools: 05.kg and 1kg
+- Spools: 0.5kg and 1 kg
+
+## Filament TPU
+
+Website: https://www.fffworld.com/en/131-flexismart-tpu-filament
+
+TPU Details:https://all3dp.com/2/tpe-filament-explained-and-compared/
+
+Flexible: FlexiSMART is made from a flexible and elastic thermoplastic elastomer (TPE) that allows the printed parts with this material to deform and recover its original shape. FlexiSMART opens new possibilities as it allows printing boards, belts, textile complements and other objects unthinkable with traditional rigid filaments.
+
+## What do you print with?
+
+- Type: TPU
+- Brand: FFF World
+- Origin: from Spain
+- Size: 1.75mm
+- Spools: 0.25kg and 1 kg
 
 ## What is the quality like ?
 
