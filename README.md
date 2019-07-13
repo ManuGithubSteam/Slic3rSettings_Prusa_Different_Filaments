@@ -21,12 +21,12 @@ So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
 
-| Model:  | Benchy | |
-| ------------- | ------------- | ---- |
-|  Filament:  | Prusament PETG | |
-|  Layer:       |  0.4mm 0.25mm layer height  | |
-|  Infill:      |  10.00%                     | |
-|  MVS:         |  20                         |  8 |
+| Model:  | Benchy | | |
+| ------------- | ------------- | ---- | ---- |
+|  Filament:  | Prusament PETG | | | 
+|  Layer:       |  0.4mm 0.25mm layer height  | ||
+|  Infill:      |  10.00%                     | ||
+|  MVS:         |  20                         |  8 ||
 
 |---------------|-----------------------------|-------------------|--------------------------
 |  Filament:    |  Prusament PETG             |                   |
