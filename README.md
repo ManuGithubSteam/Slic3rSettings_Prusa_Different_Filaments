@@ -1,4 +1,4 @@
-### Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
+# Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
 Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
 
@@ -67,9 +67,7 @@ This is just mental!
 
 - See the picture folder.
 
-## Keywords
-
-slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle"
+## For what filemants can i find Slic3er Settings ?
 
 ----
 #Break
@@ -103,3 +101,6 @@ slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printin
   |  feelcolor Kanova materic         |                                                                                                   |
   |  FormFutura Stonefill             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                   |  0.10<br> 0.15<br>0.20<br>0.25
   |  FormFutura ApolloX ASA           |                                                                                                   |
+## Keywords 
+
+slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle"
