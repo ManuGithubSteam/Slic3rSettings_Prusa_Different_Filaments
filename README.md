@@ -21,15 +21,14 @@ So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
 
-| Model:  | Benchy | | | 
+| Model:  | Benchy | | % increase in print time | 
 | ------------- | ------------- | ---- | ---- |
 |  Filament:  | Prusament PETG | | | 
 |  Layer:       |  0.4mm 0.25mm layer height  | ||
 |  Infill:      |  10.00%                     | ||
 |  MVS:         |  20                         |  8 ||
-|  Infill:      |  10.00%                     | |
 |  Hotend:      |  Volcano Nozzle X           |  e3d v6 Nozzle X  |
-|  Percentage:  |  Print Time:                |                   |  
+|  Percentage:  |  Print Time:                |                   | 
 |  100.00%      |  64 min                     |  94 min           |  31.00%
 |  150.00%      |  133 min                    |  197 min          |  32.00%
 |  200.00%      |  222 min                    |  405 min          |  45.00%
