@@ -1,16 +1,16 @@
 # Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
-Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions, cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
+Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions<br>cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
 
 It is a lot of trail an error to get it right. So i want to share my starting points.
 
-My goal is to provide pfofiles for filament with a distinct funktion like: flexible, high temp resictance, other speacisl properties.
+My goal is to provide pfofiles for filament with a distinct funktion like: flexible<br>high temp resictance<br>other speacisl properties.
 
-Be aware, that every printer is dirrent not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3 the best.
+Be aware<br>that every printer is dirrent not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3 the best.
 
 <br> Why?
 
-Its hard to find the perfect settings for filament online. Its even harder, to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you dont have to, to get more print speed and keep the same quality.
+Its hard to find the perfect settings for filament online. Its even harder<br>to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you dont have to<br>to get more print speed and keep the same quality.
 
 But that has is advantages like a keeping the 0.4 quality and still get print speeds increasing up to 50%.
 
@@ -38,7 +38,7 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 
 __Real World Example__
 
-Waving Groot 15,5cm (100% scale):
+Waving Groot 15<br>cm (100% scale):
 
 e3d v6: 701 min
 volcano: 448 min
@@ -71,7 +71,7 @@ This is just mental!
 
 <br> Keywords
 
-slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d printing, Filament Types, "Real Filament", Real Filament slicing settings, "Real Filament slicing settings", "Real Filament settings", PET-G / PET (Polyethylene terephthalate), "Real filament print settings"
+slicing<br>REAL FILAMENT<br>real<br>Real Filament<br>Filament<br>filament<br>3d printer<br>3d printing<br>Filament Types<br>"Real Filament"<br>Real Filament slicing settings<br>"Real Filament slicing settings"<br>"Real Filament settings"<br>PET-G / PET (Polyethylene terephthalate)<br>"Real filament print settings"
 
 ----
 #Break
@@ -79,14 +79,14 @@ slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d 
   |  Filament                         |  Special Properties                                                                                  |  Volcano Profiles ## 0.4mm Nozzle
   | ---------------------------------  | ----------------------------------------------------------------------------------------------------  | ------------------------------------
   |  Real PETG                        |  Alternative to Prusament                                                                            |
-  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance                                                                   |  0.35 ## 0.20 ## 0.15## 0.10## 0.07
+  |  Prusament PETG                   |  Good PETG Quality<br>0.02 Tolerance                                                                   |  0.35 ## 0.20 ## 0.15## 0.10## 0.07
   |  FormFutura WOOD                  |  Wood filament with 40 % Wood                                                                        |  0.15
-  |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases<br>
+  |  FFFWORLD FlexiSmart TPU          |  Very soft TPU<br>Good for Cases<br>
   Printabability = Medium                                           |  0.20
   |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees ## After curing                                                    |  0.20 ## 0.15 ## 0.10
-  |  Colorfabb nGen LUX               |  nGen Material, ## Very sprakly in direct sunlight                                                   |  0.20 ## 0.15 ## 0.10
-  |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print, ## very good layer adheasion, rubber like                                 |  0.30 ## 0.25 ## 0.20 ## 0.15
-  |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel, ## 50% Steel powder, ## Good Post-Processing, Heavy, ## RECALIBRATE Z!!!  |  0.20 ## 0.15
+  |  Colorfabb nGen LUX               |  nGen Material<br>## Very sprakly in direct sunlight                                                   |  0.20 ## 0.15 ## 0.10
+  |  Colorfabb nGen FLEX              |  Semi-Flex<br>easy to print<br>## very good layer adheasion<br>rubber like                                 |  0.30 ## 0.25 ## 0.20 ## 0.15
+  |  Colorfabb STEELFILL              |  Feromagnetic<br>Steel-Feel<br>## 50% Steel powder<br>## Good Post-Processing<br>Heavy<br>## RECALIBRATE Z!!!  |  0.20 ## 0.15
   |  Colorfabb NGEN                   |                                                                                                      |
   |  Colorfabb XT CF20                |                                                                                                      |
   |  Colorfabb COPPERFILL             |                                                                                                      |
@@ -103,5 +103,5 @@ slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d 
   |  Proto-pasta Magnetic Iron PLA    |                                                                                                      |
   |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                      |
   |  feelcolor Kanova materic         |                                                                                                      |
-  |  FormFutura Stonefill             |  50% Stone powder, PLA, ## Stone like look, and a bit of a feel, ## Recalibrate Z!                   |  0.10 ## 0.15 ## 0.20 ## 0.25
+  |  FormFutura Stonefill             |  50% Stone powder<br>PLA<br>## Stone like look<br>and a bit of a feel<br>## Recalibrate Z!                   |  0.10 ## 0.15 ## 0.20 ## 0.25
   |  FormFutura ApolloX ASA           |                                                                                                      |
