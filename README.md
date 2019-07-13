@@ -23,12 +23,11 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 
 | Model:  | Benchy |
 | ------------- | ------------- |
-|  Filament:  | Prusament PETG  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
+|  Filament:  | Prusament PETG |
+|  Layer:       |  0.4mm 0.25mm layer height  |
 
-
+|---------------|-----------------------------|-------------------|--------------------------
+|  Filament:    |  Prusament PETG             |                   |
 |---------------|-----------------------------|-------------------|--------------------------
 |  Layer:       |  0.4mm 0.25mm layer height  |                   |
 |---------------|-----------------------------|-------------------|--------------------------
