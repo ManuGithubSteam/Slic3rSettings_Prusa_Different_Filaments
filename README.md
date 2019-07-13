@@ -76,16 +76,16 @@ slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d 
 ----
 #Break
 
-|  Filament                         |  Special Properties                                                                            |  Volcano Profiles 0.4mm Nozzle
-|-----------------------------------|------------------------------------------------------------------------------------------------|-------------------------------
-|  Real PETG                        |  Alternative to Prusament                                                                      |
-|  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance                                                             |  0.35 0.20 0.15 0.10 0.07
-|  FormFutura WOOD                  |  Wood filament with 40 % Wood                                                                  |  0.15
-|  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases, <br>Printabability = Medium                                     |  0.20
-|  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees<br>  After curing                                                |  0.20
+  |  Filament                         |  Special Properties                                                                            |  Volcano Profiles 0.4mm Nozzle
+  |-----------------------------------|------------------------------------------------------------------------------------------------|-------------------------------
+  |  Real PETG                        |  Alternative to Prusament                                                                      |
+  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance                                                             |  0.35 0.20 0.15 0.10 0.07
+  |  FormFutura WOOD                  |  Wood filament with 40 % Wood                                                                  |  0.15
+  |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases, <br>Printabability = Medium                                     |  0.20
+  |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees<br>  After curing                                                |  0.20
 0.15
 0.10
-|  Colorfabb nGen LUX               |  nGen Material, 
+  |  Colorfabb nGen LUX               |  nGen Material, 
 Very sprakly in direct sunlight                                               |  0.20
 0.15
 0.10
