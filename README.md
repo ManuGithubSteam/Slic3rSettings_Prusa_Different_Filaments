@@ -1,10 +1,5 @@
 # Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions, cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
 
 It is a lot of trail an error to get it right. So i want to share my starting points.
@@ -25,21 +20,29 @@ So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.
 
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
-  |               |                             |                   |
---|---------------|-----------------------------|-------------------|--------------------------
-  |               |                             |                   |
-  |               |                             |                   |
-  |  Model:       |  Benchy                     |                   |
-  |  Filament:    |  Prusament PETG             |                   |
-  |  Layer:       |  0.4mm 0.25mm layer height  |                   |
-  |  Infill:      |  10.00%                     |                   |
-  |  MVS:         |  20                         |  8                |
-  |  Hotend:      |  Volcano Nozzle X           |  e3d v6 Nozzle X  |
-  |  Percentage:  |  Print Time:                |                   |  % increase in print time
-  |  100.00%      |  64 min                     |  94 min           |  31.00%
-  |  150.00%      |  133 min                    |  197 min          |  32.00%
-  |  200.00%      |  222 min                    |  405 min          |  45.00%
-  |  250.00%      |  340 min                    |  667 min          |  49.00%
+
+|Model:|Benchy|
+
+|---------------|-----------------------------|-------------------|--------------------------
+|  Filament:    |  Prusament PETG             |                   |
+|---------------|-----------------------------|-------------------|--------------------------
+|  Layer:       |  0.4mm 0.25mm layer height  |                   |
+|---------------|-----------------------------|-------------------|--------------------------
+|  Infill:      |  10.00%                     |                   |
+|---------------|-----------------------------|-------------------|--------------------------
+|  MVS:         |  20                         |  8                |
+|---------------|-----------------------------|-------------------|--------------------------
+|  Hotend:      |  Volcano Nozzle X           |  e3d v6 Nozzle X  |
+|---------------|-----------------------------|-------------------|--------------------------
+|  Percentage:  |  Print Time:                |                   |  % increase in print time
+|---------------|-----------------------------|-------------------|--------------------------
+|  100.00%      |  64 min                     |  94 min           |  31.00%
+|---------------|-----------------------------|-------------------|--------------------------
+|  150.00%      |  133 min                    |  197 min          |  32.00%
+|---------------|-----------------------------|-------------------|--------------------------
+|  200.00%      |  222 min                    |  405 min          |  45.00%
+|---------------|-----------------------------|-------------------|--------------------------
+|  250.00%      |  340 min                    |  667 min          |  49.00%
 
 
 ########
