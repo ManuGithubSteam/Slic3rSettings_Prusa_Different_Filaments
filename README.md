@@ -22,17 +22,16 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 
 
 | Model:  | Benchy | | % increase in print time | 
-| ------------- | ------------- | ---- | ---- |
 |  Filament:  | Prusament PETG | | | 
 |  Layer:       |  0.4mm 0.25mm layer height  | ||
 |  Infill:      |  10.00%                     | ||
 |  MVS:         |  20                         |  8 ||
-|  Hotend:      |  Volcano Nozzle X           |  e3d v6 Nozzle X  |
-|  Percentage:  |  Print Time:                |                   | 
-|  100.00%      |  64 min                     |  94 min           |  31.00%
-|  150.00%      |  133 min                    |  197 min          |  32.00%
-|  200.00%      |  222 min                    |  405 min          |  45.00%
-|  250.00%      |  340 min                    |  667 min          |  49.00%
+|  Hotend:      |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  |
+|  __Percentage:__  |  __Print Time:__                |                   | 
+|  __100.00% __     |  64 min                     |  94 min           |  __31.00%__
+|  __150.00% __     |  133 min                    |  197 min          |  __32.00%__
+|  __200.00% __     |  222 min                    |  405 min          |  __45.00%__
+|  __250.00%__      |  340 min                    |  667 min          |  __49.00%__
 
 
 ########
