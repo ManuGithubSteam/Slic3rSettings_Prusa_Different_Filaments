@@ -8,7 +8,7 @@ My goal is to provide pfofiles for filament with a distinct funktion like: flexi
 
 Be aware, that every printer is dirrent not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3 the best.
 
-## Why?
+<br> Why?
 
 Its hard to find the perfect settings for filament online. Its even harder, to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you dont have to, to get more print speed and keep the same quality.
 
@@ -16,13 +16,13 @@ But that has is advantages like a keeping the 0.4 quality and still get print sp
 
 So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.4mm nozzle. 
 
-## How much improvement are we talking?
+<br> How much improvement are we talking?
 
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
 
 | Model:  | Benchy | | % increase in print time | 
-| ---  | --- | ---| --- | 
+| ---  | --- | -  |  --- | 
 |  Filament:  | Prusament PETG | | | 
 |  Layer:       |  0.4mm 0.25mm layer height  | ||
 |  Infill:      |  10.00%                     | ||
@@ -53,23 +53,23 @@ volcano: 262 min
 This is just mental!
 
 
-## 3D Printer:
+<br> 3D Printer:
 
 - Model: Prusa i3 Mk3s 
 - Firmware: latest
 
-## Slicer
+<br> Slicer
 
 - Type: PrusaSlicer
 - Version: lastest
 
 ---------------
 
-## What is the quality like with a Volcano and 0.4 nozzle ?
+<br> What is the quality like with a Volcano and 0.4 nozzle ?
 
 - See the picture folder.
 
-## Keywords
+<br> Keywords
 
 slicing, REAL FILAMENT, real, Real Filament, Filament, filament, 3d printer, 3d printing, Filament Types, "Real Filament", Real Filament slicing settings, "Real Filament slicing settings", "Real Filament settings", PET-G / PET (Polyethylene terephthalate), "Real filament print settings"
 
