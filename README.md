@@ -79,8 +79,8 @@ Well there was a time before the volcano and these are the profiles from that ti
   |  Filament                         |  Special Properties                                                                               |  Volcano Profiles <br> 0.4mm Nozzle
   | ---------------------------------  | -------------------------------------------------------------------------------------------------  | ----------------------------------------
   |  Real PETG                        |  Alternative to Prusament                                                                         |
-  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance                                                                |  0.35 <br> 0.20 <br> 0.15<br> 0.10<br> 0.07
-  |  FormFutura EASYWOOD              |  Wood filament with 40 % Wood<br>Feels and smells like real Wood                                   |  0.15
+  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion                                     |  0.35 <br> 0.20 <br> 0.15<br> 0.10<br> 0.07
+  |  FormFutura EASYWOOD              |  Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking              |  0.30<br>0.25<br>0.20<br>0.15<br>0.10
   |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases<br>  Printabability = Medium                                        |  0.20
   |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees <br> After curing, Food safe                                     |  0.20<br>0.15<br> 0.10
   |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion               |  0.20<br> 0.15<br> 0.10
@@ -103,7 +103,7 @@ Well there was a time before the volcano and these are the profiles from that ti
   |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                   |
   |  feelcolor Kanova materic         |                                                                                                   |
   |  FormFutura Stonefill             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                   |  0.10<br> 0.15<br>0.20<br>0.25
-  |  FormFutura ApolloX ASA           |                                                                                                   |
+  |  FormFutura ApolloX ASA           |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure, nice finish           |
 
 ### Keywords 
 
