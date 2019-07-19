@@ -65,7 +65,7 @@ Firmware: latest
 
 These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are same. 
 
-### Slicer
+### Slicer:
 
 Type: PrusaSlicer
 
@@ -89,9 +89,21 @@ Im very happy to include other profiles from other people. Please keep these sim
 - Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
 - I will only integrate profiles from a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
 
-### For what filemants can I find Slic3er Settings ?
+## Can you make a profile for XY??
 
-I orderd a big sample box and try to get some good print profiles out of them. Here is the list. Please not that the list is generate out of the ods in the repo. There is some magic invled like ,,\n in the file. So please be careful when editing.
+Sure, just send me a spool or some samples and i do my best to get a good profile out for you. No guarantees tho!
+
+## How do you make the profiles?
+
+I orderd a big sample box and try to get some good print profiles out of them. Here is the list. Please note that the list is generated out of the .ods in the repo. There is some magic involved like ,,\n in the file. So please be careful when editing.
+
+I use these parts to tune in the profiles for my volcano:
+
+- Tevo Test cube
+- 10mm Cube
+- Stringing Test
+
+### For what filemants can I find Slic3er Settings ?
 
 ----
 #Break
