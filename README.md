@@ -2,7 +2,7 @@
 
 ## Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
-Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
+Here I share my configs for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a __Volcano Profile__ for a 0.4 nozzle.
 
 It is a lot of trail an error to get it right. So i want to share my starting points.
 
@@ -87,7 +87,7 @@ Im very happy to include other profiles from other people. Please keep these sim
 - Volcano profiles are prefered with supreme quality and bigger print speed, v6 is also ok if it is a special filament
 - Please keep the nameing/folders of your profiles in line with my nameing. like this: ColorFabb nGen FLEX - 0.15mm - 0.30mm - MK3S - Volcano 0.4
 - Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
-- I will only integrate profiles from a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
+- I will only integrate profiles from/for a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
 
 ### Can you make a profile for XY??
 
