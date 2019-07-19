@@ -122,9 +122,9 @@ I orderd a big sample box and try to get some good print profiles out of them. H
   |  Proto-pasta Magnetic Iron PLA    |                                                                                                      |
   |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                      |
   |  feelcolor Kanova materic         |                                                                                                      |
-  |  FormFutura Stonefill             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                      |  0.10<br> 0.15<br>0.20<br>0.25
-  |  FormFutura ApolloX ASA           |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like  |
+  |  FormFutura Stonefill             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                      |  0.25<br> 0.20<br>0.15<br>0.10
+  |  FormFutura ApolloX ASA           |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like  |  0,25<br>0.20<br> 0.15
 
 ### Keywords 
 
-slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle", volcano hotend, 
+slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle"
