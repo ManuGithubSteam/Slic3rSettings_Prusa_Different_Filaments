@@ -89,19 +89,25 @@ Im very happy to include other profiles from other people. Please keep these sim
 - Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
 - I will only integrate profiles from a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
 
-## Can you make a profile for XY??
+### Can you make a profile for XY??
 
-Sure, just send me a spool or some samples and i do my best to get a good profile out for you. No guarantees tho!
+Sure, just send me a spool or some samples and i do my best to get a good profile out for you. No guarantees tho! Just send me an email.
 
-## How do you make the profiles?
+### How do you make the profiles?
 
 I orderd a big sample box and try to get some good print profiles out of them. Here is the list. Please note that the list is generated out of the .ods in the repo. There is some magic involved like ,,\n in the file. So please be careful when editing.
 
 I use these parts to tune in the profiles for my volcano:
 
-- Tevo Test cube
-- 10mm Cube
-- Stringing Test
+- Tevo test cube
+- 10mm cube
+- Stringing test
+
+My priorities for the profiles:
+
+1) Visual finish
+2) Layer adheasion
+3) As much speed as possible without compromising 1) and 2)
 
 ### For what filemants can I find Slic3er Settings ?
 
