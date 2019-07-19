@@ -1,3 +1,6 @@
+![Image of Logo]
+(https://github.com/ManuGithubSteam/Slic3rSettings_Prusa_Different_Filaments/blob/master/logo.png)
+
 ## Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
 Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a Volcano Profile for a 0.4 nozzle.
