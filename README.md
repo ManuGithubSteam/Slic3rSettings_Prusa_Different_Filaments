@@ -6,15 +6,15 @@ Here I share my configs of filament for my 3d Printer Prusa i3 Mk3s with differe
 
 It is a lot of trail an error to get it right. So i want to share my starting points.
 
-My goal is to provide pfofiles for filament with a distinct funktion like: flexible high temp resictance other speacisl properties.
+My goal is to provide profiles for filament with a distinct funktions like: flexible high temp resictance other special properties.
 
-Be aware that every printer is dirrent not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3 the best.
+Be aware that every printer is different not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3s the best.
 
 ### Why?
 
-Its hard to find the perfect settings for filament online. Its even harder to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you dont have to to get more print speed and keep the same quality.
+Its hard to find the perfect settings for filament online. Its even harder to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you don't have to go bigger, to get more print speed and keep the same quality.
 
-But that has is advantages like a keeping the 0.4 quality and still get print speeds increasing up to 50%.
+You can keep the 0.4 quality and still get print speeds increasing up to 50%.
 
 So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.4mm nozzle. 
 
@@ -71,13 +71,24 @@ Version: lastest
 
 ### Whats up with the profiles for the e3dv6 ?
 
-Well there was a time before the volcano and these are the profiles from that time. There will be no upted in the future for v6 profiles.
+Well there was a time before the volcano and these are the profiles from that time. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
 
 ### What is the quality like with a Volcano and 0.4 nozzle ?
 
 - See the picture folder.
 
-### For what filemants can i find Slic3er Settings ?
+### How can I contribute ?
+
+Im very happy to include other profiles from other people. Please keep these simple rules in mind:
+
+- Its it not my goal to get 20th PLA profile here. My aim is to tender more to the special filaments with special purposes/engeneering etc and cool features.
+- Volcano profiles are prefered with supreme quality and bigger print speed, v6 is also ok if it is a special filament
+- Please keep the nameing/folders of your profiles in line with my nameing. like this: ColorFabb nGen FLEX - 0.15mm - 0.30mm - MK3S - Volcano 0.4
+- Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
+
+### For what filemants can I find Slic3er Settings ?
+
+I orderd a big sample box and try to get some good print profiles out of them. Here is the list. Please not that the list is generate out of the ods in the repo. There is some magic invled like ,,\n in the file. So please be careful when editing.
 
 ----
 #Break
@@ -113,4 +124,4 @@ Well there was a time before the volcano and these are the profiles from that ti
 
 ### Keywords 
 
-slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle"
+slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle", volcano hotend, 
