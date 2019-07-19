@@ -12,7 +12,7 @@ Be aware that every printer is different not only in brand but also in bulding s
 
 ### Why?
 
-Its hard to find the perfect settings for filament online. Its even harder to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you don't have to go bigger, to get more print speed and keep the same quality.
+Its hard to find the perfect settings for filament online. Its even harder to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you don't have to go bigger, to get more print speed and keep the same quality as with the stock 0.4mm ed3v6 nozzle.
 
 You can keep the 0.4 quality and still get print speeds increasing up to 50%.
 
@@ -59,7 +59,8 @@ This is just mental!
 
 ### 3D Printer:
 
-Model: Prusa i3 Mk3s 
+Model: Prusa i3 Mk3s
+
 Firmware: latest
 
 These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are same. 
@@ -67,6 +68,7 @@ These notes are based on my experiences with the Prusa i3 Mk3s printer. If you a
 ### Slicer
 
 Type: PrusaSlicer
+
 Version: lastest
 
 ### Whats up with the profiles for the e3dv6 ?
@@ -85,6 +87,7 @@ Im very happy to include other profiles from other people. Please keep these sim
 - Volcano profiles are prefered with supreme quality and bigger print speed, v6 is also ok if it is a special filament
 - Please keep the nameing/folders of your profiles in line with my nameing. like this: ColorFabb nGen FLEX - 0.15mm - 0.30mm - MK3S - Volcano 0.4
 - Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
+- I will only integrate profiles from a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
 
 ### For what filemants can I find Slic3er Settings ?
 
