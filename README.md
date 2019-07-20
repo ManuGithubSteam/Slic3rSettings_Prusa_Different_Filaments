@@ -25,13 +25,13 @@ I’ve worked with each of these profiles, but make no warranty as to their suit
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
 
-| Print statistics  |  |  |   | 
-| ---  | --- | -  |  --- | 
-| Model:  | Benchy | |  |
-|  Filament:  | Prusament PETG | | | 
-|  Layer:       |  0.25mm layer height  | ||
-|  Infill:      |  10.00%                     | ||
-|  Nozzle:      |  Nozzle X 0.4mm                     | ||
+| Print statistics  |  |      
+| ---  | --- | 
+| Model:  | Benchy | 
+|  Filament:  | Prusament PETG | 
+|  Layer:       |  0.25mm layer height  | 
+|  Infill:      |  10.00%                     | 
+|  Nozzle:      |  Nozzle X 0.4mm                     | 
 
 
 |  __Print Time Comparison__    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
@@ -43,20 +43,24 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 |  __200.00%__     |  222 min                    |  405 min          |  __45.00%__
 |  __250.00%__      |  340 min                    |  667 min          |  __49.00%__
 
-MVS stands for Maximum Volumetric Speed
+*MVS stands for Maximum Volumetric Speed
 
 __Real World Example__
 
 Waving Groot 15 cm (100% scale):
 
 e3d v6: 701 min
+
 volcano: 448 min
 
 -> 36% increase in print time.
 
-Corner Join piece from a friend:
+----
+
+Corner join piece from a friend:
 
 e3d v6: 722 min
+
 volcano: 262 min
 
 This is just mental!
