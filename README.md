@@ -178,8 +178,7 @@ My priorities for the profiles:
   |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                  |  0.20<br> 0.15<br> 0.10
   |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                  |  0.30<br>0.25<br>0.20<br>0.15
   |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!     |  0.20<br> 0.15
-  |  Colorfabb NGEN                   |  nGen Material, low shrinkage<br>Very strong interlayer adhesion, Glossy finish                       |  
-0.25<br>0.20<br>0.15<br>0.10
+  |  Colorfabb NGEN                   |  nGen Material, low shrinkage<br>Very strong interlayer adhesion, Glossy finish                       |  0.25<br>0.20<br>0.15<br>0.10
   |  Colorfabb XT CF20                |                                                                                                      |
   |  Colorfabb COPPERFILL             |                                                                                                      |
   |  Colorfabb BROZEFILL              |                                                                                                      |
