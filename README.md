@@ -32,9 +32,9 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 |  Infill:      |  10.00%                     | ||
 |  MVS:         |  20                         |  8 ||
 
-| ---  | --- | -  |  --- | 
-| ---  | --- | -  |  --- | 
+
 |    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
+| ---  | --- | -  |  --- | 
 |  __Percentage:__  |  __Print Time:__                |                   | 
 |  __100.00%__     |  64 min                     |  94 min           |  __31.00%__
 |  __150.00%__     |  133 min                    |  197 min          |  __32.00%__
