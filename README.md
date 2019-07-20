@@ -36,14 +36,14 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 
 |  __Print Time Comparison__    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
 | ---  | --- | -  |  --- | 
-|  MVS:         |  20                         |  8 ||
+|  MVS*:         |  20                         |  8 ||
 |  __Benchy size:__  |                |                   | 
 |  __100.00%__     |  64 min                     |  94 min           |  __31.00%__
 |  __150.00%__     |  133 min                    |  197 min          |  __32.00%__
 |  __200.00%__     |  222 min                    |  405 min          |  __45.00%__
 |  __250.00%__      |  340 min                    |  667 min          |  __49.00%__
 
-
+MVS stands for Maximum Volumetric Speed
 
 __Real World Example__
 
@@ -61,8 +61,51 @@ volcano: 262 min
 
 This is just mental!
 
+### Whats that MVS?
 
-### 3D Printer:
+MVS stands for maximum volumetric speed. It's a setting that overrules the print speeds. It classifies the maximum output of the hotend of hot plastic ( in general and for a specific filament)
+Aka: how much plastic can I melt in 1 second
+
+The volcano has MVS hardware limit of around 25mm/sec and the V6 of 11mm/sec.
+
+Basically the MVS value makes sure that even when you put in infill speed of 200mm/sec that it only prints at that speed that the filament and the hotend can handle to get the print successful out of it.
+
+You can raise the MVS also on the V6 but as the hardware limit is quite low you don't get much out of it. Every filament has a max MVS value but if that value is bigger than 11 you will never reach the maximum speed for it on the V6.
+
+The MVS for petg (prusament) is around 20. So to get the max speed you have to go volcano and safe like 50% of printing time on bigger parts.
+
+For PLA the max MVS is even higher than 20 but I don't have pla around and could not test. So basically a V6 slows you down quite a bit as the hardware limit is at 11.
+
+However, not all filament types can be printed that fast. So with some types like tpu you will not see an improvement over the V6 but in my experience so far I was never actually slower.
+
+MVS can be calculated, it factors In layer height, speed, extrusion width.
+
+But in the end you have to do test prints to find the right value cap for your filament.
+
+Also you can just set it to 20 all the time but then you loose the safety feature and your speeds can not exceed the maximum for that filament otherwise the print gets ruined.
+
+Some maths:
+
+So lets take the formula for infill:
+
+Layer Height X Extrusion Width X Speed = Volumentric speed
+
+0.25 * 0.6 * x = 12
+
+0.15*x =12 >> That gives me 80mm/seconds for infill
+
+So i can set the speed for infill at 80mm/second if i go fo 0.6 extrution width. As it turns out this is the standard setting anyway for the v6 (bit with 0.4 width). So no gain here for 12 MVS. 
+But as mentiond above the volcano can do 20 for petg. So lets look at that:
+
+0.25 * 0.6 * x = 20
+
+0.15*x =20 >> That gives me 133mm/seconds for infill and maxed out MVS.
+
+See also this post: https://forum.prusaprinters.org/forum/original-prusa-i3-mk3s-mk3-user-mods-octoprint-enclosures-nozzles-.../volcano-with-0-4-0-6-nozzle-speed-and-slicing-help-needed/
+
+### My Hardware/Software combo
+
+__3D Printer:__
 
 Model: Prusa i3 Mk3s
 
@@ -70,7 +113,7 @@ Firmware: latest
 
 These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are same. 
 
-### Slicer:
+__Slicer:__
 
 Type: PrusaSlicer
 
