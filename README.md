@@ -175,7 +175,7 @@ My priorities for the profiles:
   |  FormFutura EASYWOOD              |  Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking                 |  0.30<br>0.25<br>0.20<br>0.15<br>0.10
   |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases<br>  Printabability = Medium                                           |  0.20
   |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees <br> After curing, Food safe                                        |  0.20<br>0.15<br> 0.10
-  |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                  |  0.20<br> 0.15<br> 0.10
+  |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                  |  0.25<br>0.20<br> 0.15<br> 0.10
   |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                  |  0.30<br>0.25<br>0.20<br>0.15
   |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!     |  0.20<br> 0.15
   |  Colorfabb NGEN                   |  nGen Material, low shrinkage<br>Very strong interlayer adhesion, Glossy finish                       |  0.25<br>0.20<br>0.15<br>0.10
