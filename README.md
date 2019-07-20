@@ -25,17 +25,19 @@ I’ve worked with each of these profiles, but make no warranty as to their suit
 Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
 
 
-| Model:  | Benchy | | % increase in print time | 
+ 
 | ---  | --- | -  |  --- | 
+| Model:  | Benchy | |  |
 |  Filament:  | Prusament PETG | | | 
 |  Layer:       |  0.4mm 0.25mm layer height  | ||
 |  Infill:      |  10.00%                     | ||
-|  MVS:         |  20                         |  8 ||
 
 
-|    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
+
+|  __Print Time Comparison__    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
 | ---  | --- | -  |  --- | 
-|  __Percentage:__  |  __Print Time:__                |                   | 
+|  MVS:         |  20                         |  8 ||
+|  __Benchy size:__  |                |                   | 
 |  __100.00%__     |  64 min                     |  94 min           |  __31.00%__
 |  __150.00%__     |  133 min                    |  197 min          |  __32.00%__
 |  __200.00%__     |  222 min                    |  405 min          |  __45.00%__
