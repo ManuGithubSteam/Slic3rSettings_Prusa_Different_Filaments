@@ -22,7 +22,7 @@ I’ve worked with each of these profiles, but make no warranty as to their suit
 
 ### How much improvement are we talking?
 
-Here i made some statistics and some pics. This is a 100% benchy the 200% one is still printing....
+Here i made some statistics and some pics. See the pics folder.
 
 
 | Print statistics  |  |      
@@ -36,7 +36,7 @@ Here i made some statistics and some pics. This is a 100% benchy the 200% one is
 
 |  __Print Time Comparison__    |  __Volcano Nozzle X__           |  __e3d v6 Nozzle X__  | __% increase in print time__
 | ---  | --- | -  |  --- | 
-|  MVS*:         |  20                         |  8 ||
+|  MVS*:         |  20                         |  8 (standard Prusa profile) ||
 |  __Benchy size:__  |                |                   | 
 |  __100.00%__     |  64 min                     |  94 min           |  __31.00%__
 |  __150.00%__     |  133 min                    |  197 min          |  __32.00%__
@@ -98,8 +98,8 @@ Layer Height X Extrusion Width X Speed = Volumentric speed
 
 0.15*x =12 >> That gives me 80mm/seconds for infill
 
-So i can set the speed for infill at 80mm/second if i go fo 0.6 extrution width. As it turns out this is the standard setting anyway for the v6 (bit with 0.4 width). So no gain here for 12 MVS. 
-But as mentiond above the volcano can do 20 for petg. So lets look at that:
+So i can set the speed for infill at 80mm/second if i go fo 0.6 extrution width. As it turns out this is the standard setting anyway for the v6 (but with 0.4 width). So no gain here for 12 MVS. 
+But as mentioned above the volcano can do 20 for petg. So lets look at that:
 
 0.25 * 0.6 * x = 20
 
@@ -135,11 +135,13 @@ Well there was a time before the volcano and these are the profiles from that ti
 
 Im very happy to include other profiles from other people. Please keep these simple rules in mind:
 
+- If you print with a filament successful that layer height is missing here, please share that profile.
 - Its it not my goal to get 20th PLA profile here. My aim is to tender more to the special filaments with special purposes/engeneering etc and cool features.
 - Volcano profiles are prefered with supreme quality and bigger print speed, v6 is also ok if it is a special filament
 - Please keep the nameing/folders of your profiles in line with my nameing. like this: ColorFabb nGen FLEX - 0.15mm - 0.30mm - MK3S - Volcano 0.4
-- Please share/add some pics how good the quality turns out with the profile, i dont want the quality go down by adding just a lot of profiles...
+- Please share/add some pics how good the quality turns out with the profile.
 - I will only integrate profiles from/for a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
+
 
 ### Can you make a profile for XY??
 
@@ -176,7 +178,8 @@ My priorities for the profiles:
   |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                  |  0.20<br> 0.15<br> 0.10
   |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                  |  0.30<br>0.25<br>0.20<br>0.15
   |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!     |  0.20<br> 0.15
-  |  Colorfabb NGEN                   |                                                                                                      |
+  |  Colorfabb NGEN                   |  nGen Material, low shrinkage<br>Very strong interlayer adhesion, Glossy finish                       |  
+0.25<br>0.20<br>0.15<br>0.10
   |  Colorfabb XT CF20                |                                                                                                      |
   |  Colorfabb COPPERFILL             |                                                                                                      |
   |  Colorfabb BROZEFILL              |                                                                                                      |
