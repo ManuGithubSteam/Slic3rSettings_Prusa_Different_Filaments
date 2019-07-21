@@ -131,17 +131,17 @@ Well there was a time before the volcano and these are the profiles from that ti
 
 - See the picture folder.
 
-### How can I contribute ?
+## How can I contribute ?
 
 Im very happy to include other profiles from other people. Please keep these simple rules in mind:
 
+- Please help fix the beta profiles first, they are printable and funxtional but dont looks super good, depending on the model you print.
 - If you print with a filament successful that layer height is missing here, please share that profile.
 - Its it not my goal to get 20th PLA profile here. My aim is to tender more to the special filaments with special purposes/engeneering etc and cool features.
 - Volcano profiles are prefered with supreme quality and bigger print speed, v6 is also ok if it is a special filament
 - Please keep the nameing/folders of your profiles in line with my nameing. like this: ColorFabb nGen FLEX - 0.15mm - 0.30mm - MK3S - Volcano 0.4
 - Please share/add some pics how good the quality turns out with the profile.
 - I will only integrate profiles from/for a Prusa Mk2/s or Mk3/s + MMU (Please MARK this in the profiles!). For other printers please see the sources of your printer.
-
 
 ### Can you make a profile for XY??
 
@@ -168,34 +168,34 @@ My priorities for the profiles:
 ----
 #Break
 
-  |  Filament                         |  Special Properties                                                                                                              |  Volcano Profiles <br> 0.4mm Nozzle
-  | ---------------------------------  | --------------------------------------------------------------------------------------------------------------------------------  | ---------------------------------------------
-  |  Real PETG                        |  Alternative to Prusament                                                                                                        |
-  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion                                                                    |  0.35 <br> 0.20 <br> 0.15<br> 0.10<br> 0.07 beta
-  |  FormFutura EASYWOOD              |  Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking                                             |  0.30<br>0.25<br>0.20<br>0.15<br>0.10
-  |  FormFutura STONEFILL             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                                                  |  0.25<br> 0.20<br>0.15<br>0.10
-  |  FormFutura ApolloX ASA           |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen        |  0,25 beta<br>0.20 beta<br> 0.15 beta
-  |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases<br>  Printabability = Medium                                                                       |  0.20
-  |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees <br> After curing, Food safe                                                                    |  0.20<br>0.15<br> 0.10
-  |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                                              |  0.25<br>0.20<br> 0.15<br> 0.10
-  |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                                              |  0.30<br>0.25<br>0.20<br>0.15
-  |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!                                 |  0.20<br> 0.15
-  |  Colorfabb NGEN                   |  nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX  |  0.25<br>0.20<br>0.15<br>0.10
-  |  Colorfabb XT CF20                |                                                                                                                                  |
-  |  Colorfabb COPPERFILL             |                                                                                                                                  |
-  |  Colorfabb BROZEFILL              |                                                                                                                                  |
-  |  Colorfabb GLOWFILL               |                                                                                                                                  |
-  |  Colorfabb HT                     |                                                                                                                                  |
-  |  Colorfabb PA-CF LOW WARP         |                                                                                                                                  |
-  |  Orbi-Tech TPU                    |                                                                                                                                  |
-  |  NinjaTek Cheetah                 |                                                                                                                                  |
-  |  NinjaTek Armadillo               |                                                                                                                                  |
-  |  NinjaTek NinjaFlex               |                                                                                                                                  |
-  |  Proto-pasta Conductive PLA       |                                                                                                                                  |
-  |  Proto-pasta Magnetic Iron PLA    |                                                                                                                                  |
-  |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                                                  |
-  |  Lay Filaments MoldLay            |                                                                                                                                  |
-  |  feelcolor Kanova materic Marble  |                                                                                                                                  |
+  |  Filament                         |  Special Properties                                                                                                                                                         |  Volcano Profiles <br> 0.4mm Nozzle
+  | ---------------------------------  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ---------------------------------------------
+  |  Real PETG                        |  Alternative to Prusament                                                                                                                                                   |
+  |  Prusament PETG                   |  Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion                                                                                                               |  0.35 <br> 0.20 <br> 0.15<br> 0.10<br> 0.07 beta
+  |  FormFutura EASYWOOD              |  Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking                                                                                        |  0.30<br>0.25<br>0.20<br>0.15<br>0.10
+  |  FormFutura STONEFILL             |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                                                                                             |  0.25<br> 0.20<br>0.15<br>0.10
+  |  FormFutura ApolloX ASA           |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen                                                   |  0,25 beta<br>0.20 beta<br> 0.15 beta
+  |  FFFWORLD FlexiSmart TPU          |  Very soft TPU, Good for Cases<br>  Printabability = Medium                                                                                                                  |  0.20
+  |  3dk 3dkTOP                       |  Heat resistant up to 230 Degrees <br> After curing, Food safe                                                                                                               |  0.20<br>0.15<br> 0.10
+  |  Colorfabb nGen LUX               |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                                                                                         |  0.25<br>0.20<br> 0.15<br> 0.10
+  |  Colorfabb nGen FLEX              |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                                                                                         |  0.30<br>0.25<br>0.20<br>0.15
+  |  Colorfabb STEELFILL              |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!                                                                            |  0.20<br> 0.15
+  |  Colorfabb NGEN                   |  nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX                                             |  0.25<br>0.20<br>0.15<br>0.10
+  |  Colorfabb XT CF20                |                                                                                                                                                                             |
+  |  Colorfabb COPPERFILL             |                                                                                                                                                                             |
+  |  Colorfabb BROZEFILL              |                                                                                                                                                                             |
+  |  Colorfabb GLOWFILL               |  Green Glow at Night. Needs high infill for best glow<br>Very abrasive (more than CF!), use Steelnozzle<br>Glows for +9 months,Needs to be charched with strong light source  |  0,25<br>0.20<br>0.15<br>0.10
+  |  Colorfabb HT                     |                                                                                                                                                                             |
+  |  Colorfabb PA-CF LOW WARP         |                                                                                                                                                                             |
+  |  Orbi-Tech TPU                    |                                                                                                                                                                             |
+  |  NinjaTek Cheetah                 |                                                                                                                                                                             |
+  |  NinjaTek Armadillo               |                                                                                                                                                                             |
+  |  NinjaTek NinjaFlex               |                                                                                                                                                                             |
+  |  Proto-pasta Conductive PLA       |                                                                                                                                                                             |
+  |  Proto-pasta Magnetic Iron PLA    |                                                                                                                                                                             |
+  |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                                                                                             |
+  |  Lay Filaments MoldLay            |                                                                                                                                                                             |
+  |  feelcolor Kanova materic Marble  |                                                                                                                                                                             |
 
 ### Keywords 
 
