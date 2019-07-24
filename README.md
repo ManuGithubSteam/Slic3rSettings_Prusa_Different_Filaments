@@ -123,6 +123,10 @@ Type: PrusaSlicer
 
 Version: lastest
 
+### What mod do you use the fit the Volcano onto the Prusa Mk3s?
+
+This one:  https://www.thingiverse.com/thing:2989361
+
 ### Whats up with the profiles for the e3dv6 ?
 
 Well there was a time before the volcano and these are the profiles from that time. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
