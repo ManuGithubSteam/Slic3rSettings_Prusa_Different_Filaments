@@ -131,6 +131,10 @@ This one:  https://www.thingiverse.com/thing:2989361
 
 Well there was a time before the volcano and these are the profiles from that time. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
 
+### Can I use the volcano profiles in my e3dv6 ?
+
+Yes you can. You just have to adjust the MVS value in the Filament and Print Settings. Use the safe v6 values like 8 for PETG. This will calculate down all the speeds to be safe and unseable with the v6.
+
 ### What is the quality like with a Volcano and 0.4 nozzle ?
 
 - See the picture folder.
@@ -166,6 +170,21 @@ My priorities for the profiles:
 1) Visual finish
 2) Layer adheasion
 3) As much speed as possible without compromising 1) and 2)
+
+### How do I install the profiles ?
+
+Thats easy:
+
+The profiles go in subfolders here ~.PrusaSilcer:
+
+1) - print folder
+-> Files with *QUALITY, DRAFT etc.* in them.
+
+2) - printer folder
+-> Files with *MK3S.* in them.
+
+3) - filament folder
+-> The Rest of them in the folder
 
 ### For what filemants can I find Slic3er Settings ?
 
