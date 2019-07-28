@@ -217,8 +217,9 @@ The profiles go in subfolders here ~.PrusaSilcer:
   |  Proto-pasta Conductive PLA       |                                                                                                                                                                                             |
   |  Proto-pasta Magnetic Iron PLA    |                                                                                                                                                                                             |
   |  Lay Filaments Lay-Felt Poro-Lay  |                                                                                                                                                                                             |
-  |  Lay Filaments MoldLay            |  Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees,, let cool down the print!
-Prints moulds for permanent casting and for lost-wax casting.                       |  0.25<br>0.20<br>0.15 beta<br>  |  feelcolor Kanova materic Marble  |                                                                                                                                                                                             |
+  |  Lay Filaments MoldLay            |  Wax like filament, for lost mold casting,, 
+Gets water liquid at 275 degrees, let cool down the print!,, 
+Prints moulds for permanent casting and for lost-wax casting.                    |  0.25<br>0.20<br>0.15 beta<br>  |  feelcolor Kanova materic Marble  |                                                                                                                                                                                             |
 
 ### Keywords 
 
