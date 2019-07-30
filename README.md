@@ -216,7 +216,7 @@ The profiles go in subfolders here ~.PrusaSilcer:
   |  NinjaTek NinjaFlex               |                                                                                                                                                                                             |
   |  Proto-pasta Conductive PLA       |                                                                                                                                                                                             |
   |  Proto-pasta Magnetic Iron PLA    |  Filament that is feromagnetic, Filament that can RUST<br>PLA base                                                                                                                           |  0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta
-  |  feelcolor Kanova materic Marble  |  k/canova mineral stone material,porous for sanding and coloring<br>Feels stone like, Suitable for modeling, tombstone effect                                                                |
+  |  feelcolor Kanova materic Marble  |  k/canova mineral stone material,porous for sanding and coloring<br>Feels plaster like, Suitable for modeling like plaster, tombstone effect                                                 |
   |  Lay Filaments Lay-Felt Poro-Lay  |  Expermimental filament!, gets soft when submerged in water<br>Felt like feel,                                                                                                               |
   |  Lay Filaments MoldLay            |  Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints moulds for permanent casting and for lost-wax casting.                      |  0.25<br>0.20<br>0.15 beta
 
