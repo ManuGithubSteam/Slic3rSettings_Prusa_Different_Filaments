@@ -2,23 +2,23 @@
 
 ## Slic3r/ PrusaSilcer Settings - especially for the Volcano Hotend with a 0.4 Nozzle
 
-Here I share my configs for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a __Volcano Profile__ for a 0.4 nozzle.
+Here I share my filament configs for my 3d Printer Prusa i3 Mk3s with different brands and functions cause there are hard to find on the net. Especially if you want a __Volcano Profile__ even more so for a 0.4 nozzle.
 
 It is a lot of trail an error to get it right. So i want to share my starting points.
 
-My goal is to provide profiles for filament with a distinct funktions like: flexible high temp resictance other special properties.
+My goal is to provide profiles for filament with a distinct functions like: flexible, high temp ,resictance and other special properties.
 
 Be aware that every printer is different not only in brand but also in bulding so the values will never be a 100% fit. But this fits MY Prusa i3 MK3s the best.
 
 ### Why?
 
-Its hard to find the perfect settings for filament online. Its even harder to find setting for a Volcano with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you don't have to go bigger, to get more print speed and keep the same quality as with the stock 0.4mm ed3v6 nozzle.
+Its hard to find the perfect settings for any filament online. Its even harder to find setting for a Volcano Hotend. Much more so with a 0.4 nozzle. Few people seem to use this combination. Everyone seems to use bigger nozzles with the Volcano but you don't have to go bigger, to get more print speed and keep the same quality as with the stock 0.4mm ed3v6 nozzle.
 
 You can keep the 0.4 quality and still get print speeds increasing up to 50%.
 
 So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.4mm nozzle. 
 
-I’ve worked with each of these profiles, but make no warranty as to their suitability for use on your printer. Be careful if you have not calibrated your current nozzle and Live-Z settings. I have done some basic prints using each of these settings, but they are all “experimental” and not guaranteed perfect. Most of them I calibrated with 50g filament samples. Use at your own risk!
+I’ve worked with each of these profiles, but make no warranty as to their suitability for use on your printer. Be careful if you have not calibrated your current nozzle and Live-Z settings of your volcano. I have done some basic prints using each of these settings, but they are all “experimental” and not guaranteed perfect. Most of them I calibrated with 50g filament samples. Use at your own risk!
 
 ### How much improvement are we talking?
 
@@ -113,9 +113,9 @@ __3D Printer:__
 
 Model: Prusa i3 Mk3s
 
-Firmware: latest
+Firmware: 3.7.0 // 3.8 has some bugs so i wait for 3.8.1
 
-These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are same. 
+These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are the same. 
 
 __Slicer:__
 
@@ -129,11 +129,11 @@ This one:  https://www.thingiverse.com/thing:2989361
 
 ### Whats up with the profiles for the e3dv6 ?
 
-Well there was a time before the volcano and these are the profiles from that time. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
+Well there was a time before the volcano and these are the profiles from that time. As saif before its hard to come by perfectly tuned profiles for a filament. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
 
 ### Can I use the volcano profiles in my e3dv6 ?
 
-Yes you can. You just have to adjust the MVS value in the Filament and Print Settings. Use the safe v6 values like 8 for PETG. This will calculate down all the speeds to be safe and unseable with the v6.
+Yes you can. You just have to adjust the MVS value in the Filament and Print Settings. Use the safe v6 values like 8 for PETG. This will calculate down all the speeds to be safe and unseable with the v6. No gurantrees tho.
 
 ### What is the quality like with a Volcano and 0.4 nozzle ?
 
@@ -161,9 +161,8 @@ I orderd a big sample box and try to get some good print profiles out of them. H
 
 I use these parts to tune in the profiles for my volcano:
 
-- Tevo test cube
+- Tevo test cube - own version
 - 10mm cube
-- Stringing test
 
 My priorities for the profiles:
 
@@ -186,51 +185,16 @@ The profiles go in subfolders here ~.PrusaSilcer:
 3) - filament folder
 -> The Rest of them in the folder
 
-### For what filemants can I find Slic3er Settings ?
+### Can i use the Profiles with Slic3er ?
+
+Well maybe, the projects are forked and go slightly different directions. So im not sure...
+
+### For what filemants can I find PrusaSlicer Settings ?
 
 ----
 #Break
 
-  |  Filament                                |  Special Properties                                                                                                                                                                                                            |  Volcano Profiles <br> 0.4mm Nozzle
-  | ----------------------------------------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ---------------------------------------------------------
-  |  Real PETG                               |  Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion                                                                                                                                                        |  0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10
-  |  Prusament PETG                          |  Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion                                                                                                                                                                  |  0.35<br>0.30<br>0.25<br> 0.20<br> 0.15<br> 0.10<br> 0.07 beta
-  |  FormFutura EASYWOOD                     |  Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking                                                                                                                                           |  0.30<br>0.25<br>0.20<br>0.15<br>0.10
-  |  FormFutura STONEFILL                    |  50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!                                                                                                                                                |  0.25<br> 0.20<br>0.15<br>0.10
-  |  FormFutura ApolloX ASA                  |  For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen                                                                                                      |  0,25<br>0.20<br> 0.15<br>0.10
-  |  FFFWORLD FlexiSmart TPU                 |  Very soft TPU, Good for Cases<br>  Printabability = Medium                                                                                                                                                                     |  0.20
-  |  3dk 3dkTOP                              |  Heat resistant up to 230 Degrees <br> After curing, Food safe                                                                                                                                                                  |  0.20<br>0.15<br> 0.10
-  |  Colorfabb nGen LUX                      |  nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion                                                                                                                                            |  0.25<br>0.20<br> 0.15<br> 0.10
-  |  Colorfabb nGen FLEX                     |  Semi-Flex, easy to print<br> Very good layer adheasion, rubber like                                                                                                                                                            |  0.30<br>0.25<br>0.20<br>0.15
-  |  Colorfabb STEELFILL                     |  Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!                                                                                                                               |  0.20<br> 0.15
-  |  Colorfabb NGEN                          |  nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX                                                                                                |  0.25<br>0.20<br>0.15<br>0.10
-  |  Colorfabb XT CF20                       |                                                                                                                                                                                                                                |
-  |  Colorfabb COPPERFILL                    |                                                                                                                                                                                                                                |
-  |  Colorfabb BROZEFILL                     |                                                                                                                                                                                                                                |
-  |  Colorfabb GLOWFILL                      |  Green Glow at Night. Needs high infill for best glow<br>Very abrasive (more than CF!), use Steelnozzle<br>Glows for +9 months,Needs to be charged with strong light source                                                      |  0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta
-  |  Colorfabb HT                            |  A bit Hydrophile, Temp resistant to 100 degrees<br>Super mechanical performance,greater toughness than XT<br>Super strong, nearly see trough, enclousure advised<br>FDA approved = Food safe                                     |  0.25<br>0.20<br>0.15<br>0.10 beta<br>0.07 beta
-  |  Colorfabb PA-CF LOW WARP                |                                                                                                                                                                                                                                |
-  |  Colorfabb Corkfill                      |                                                                                                                                                                                                                                |
-  |  Colorfabb WoodFill                      |  Wood like structure, very light parts, very bright wood color<br>30% recycled woodfibres, PLA/PHA + fine pinewood fibres<br>Easy sanded,Good with wood filler and wood stain<br>Very soft filament, after sanding very woodlike  |
-  |  Orbi-Tech TPU                           |                                                                                                                                                                                                                                |
-  |  NinjaTek Cheetah                        |                                                                                                                                                                                                                                |
-  |  NinjaTek Armadillo                      |                                                                                                                                                                                                                                |
-  |  NinjaTek NinjaFlex                      |                                                                                                                                                                                                                                |
-  |  Proto-pasta Conductive PLA              |                                                                                                                                                                                                                                |
-  |  Proto-pasta Magnetic Iron PLA           |  Filament that is feromagnetic, Filament that can RUST<br>PLA base                                                                                                                                                              |  0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta
-  |  feelcolor Kanova materic Marble         |  k/canova mineral stone material,porous for sanding and coloring<br>Suitable for modeling like plaster/soap stone with knife<br>More perimters advised, GLUESTICK needed!,                                                       |  0.20<br>0.15<br>0.10<br>0.07 beta
-  |  Lay Filaments Lay-Felt Poro-Lay         |  Expermimental filament!, gets soft when submerged in water<br>Felt like feel,                                                                                                                                                  |
-  |  Lay Filaments MoldLay                   |  Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints moulds for permanent casting and for lost-wax casting.                                                         |  0.25<br>0.20<br>0.15 beta
-  |  EUMAKERS PLA Glow Blue                  |                                                                                                                                                                                                                                |
-  |  Kanesis Weed filament                   |  Hemp filament with 20% Hemp, rought texture                                                                                                                                                                                   |
-  |  FiloAlfa ALFAsilk filament,             |                                                                                                                                                                                                                                |
-  |  feelcolor  HIPS filament                |                                                                                                                                                                                                                                |
-  |  Orbi-Tech PVA                           |                                                                                                                                                                                                                                |
-  |  Formfutura MagicFill Thermo PLA         |                                                                                                                                                                                                                                |
-  |  PolySmooth                              |                                                                                                                                                                                                                                |
-  |  uDiamond PLA by Carbodeon               |                                                                                                                                                                                                                                |
-  |  Copper 3D - PLACTIVE Antimicrobial PLA  |                                                                                                                                                                                                                                |
 
 ### Keywords 
 
-slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle" Volcano Slicer Profiles, Volcano hotend slic3r profiles, cura, slic3r, Prusa i3, Prusament, Filament, Slicing profiles, 3d printing, 3d printing profiles, 3d printer slicer, 3d printing slicer, 3d print, 3d printer, 3d slicer, stl slicer, slic3r profiles
+slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle" Volcano Slicer Profiles, Volcano hotend slic3r profiles, cura, slic3r, Prusa i3, Prusament, Filament, Slicing profiles, 3d printing, 3d printing profiles, 3d printer slicer, 3d printing slicer, 3d print, 3d printer, 3d slicer, stl slicer, slic3r profiles, prusa volcano, prusa i3 volcano, prusa volcano upgrade, prusa volcano hotend,
