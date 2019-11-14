@@ -194,15 +194,9 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 ----
 #Break
 
-||Filament|Special Properties|Volcano Profiles |||
-|:--  | :--  | :--  | :--  | :--  | :--  | 
-| 0.4mm Nozzle|
-||Real PETG|Good PETG Quality, Alternative to Prusament,,Food safe, Good adhesion, a bit runny|0.35|||
-|0.30|||
-| 0.25|||
-|0.20|||
-| 0.15|||
-| 0.10|
+||Filament|Special Properties|Volcano Profiles ,, 0.4mm Nozzle|
+|:--  | :--  | :--  | :--  | 
+||Real PETG|Good PETG Quality, Alternative to Prusament,,Food safe, Good adhesion, a bit runny|0.35,,0.30,, 0.25,,0.20,, 0.15,, 0.10|
 ||Prusament PETG|Good PETG Quality| 0.02 Tolerance|||
 |Food safe| Good adhesion,0.35|||
 |0.30|||
