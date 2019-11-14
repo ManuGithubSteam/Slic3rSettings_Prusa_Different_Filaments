@@ -227,7 +227,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
 |EUMAKERS PLA Glow Blue|The favourite blue glowing PLA from  Eumakers|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture||
-|FiloAlfa ALFAsilk filament,|||
+|FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.||
 |feelcolor  HIPS filament |||
 |Orbi-Tech PVA|||
 |Formfutura MagicFill Thermo PLA|||
