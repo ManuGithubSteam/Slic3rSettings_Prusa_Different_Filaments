@@ -197,8 +197,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 ||Filament|Special Properties|Volcano Profiles |||
 |:--  | :--  | :--  | :--  | :--  | :--  | 
 | 0.4mm Nozzle|
-||Real PETG|Good PETG Quality| Alternative to Prusament|||
-|Food safe| Good adhesion| a bit runny,0.35|||
+||Real PETG|Good PETG Quality, Alternative to Prusament,,Food safe, Good adhesion, a bit runny|0.35|||
 |0.30|||
 | 0.25|||
 |0.20|||
