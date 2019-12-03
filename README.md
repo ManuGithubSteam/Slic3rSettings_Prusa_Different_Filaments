@@ -198,7 +198,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |:--  | :--  | :--  | 
 |Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
 |Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
-|SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
+|SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
 |FormFutura EASYWOOD|Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |FormFutura STONEFILL|50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!|0.25<br> 0.20<br>0.15<br>0.10|
 |FormFutura ApolloX ASA|For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen|0,25<br>0.20<br> 0.15<br>0.10|
