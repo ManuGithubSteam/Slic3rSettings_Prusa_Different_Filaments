@@ -209,13 +209,13 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Colorfabb STEELFILL|Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!|0.20<br> 0.15|
 |Colorfabb NGEN|nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX|0.25<br>0.20<br>0.15<br>0.10|
 |Colorfabb XT CF20|||
-|Colorfabb COPPERFILL|||
+|Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
 |Colorfabb BROZEFILL|||
 |Colorfabb GLOWFILL|Green Glow at Night. Needs high infill for best glow<br>Very abrasive (more than CF!), use Steelnozzle<br>Glows for +9 months,Needs to be charged with strong light source|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Colorfabb HT|A bit Hydrophile, Temp resistant to 100 degrees<br>Super mechanical performance,greater toughness than XT<br>Super strong, nearly see trough, enclousure advised<br>FDA approved = Food safe|0.25<br>0.20<br>0.15<br>0.10 beta<br>0.07 beta|
 |Colorfabb PA-CF LOW WARP|||
-|Colorfabb Corkfill|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
-|Colorfabb WoodFill|Wood like structure, very light parts, very bright wood color<br>30% recycled woodfibres, PLA/PHA + fine pinewood fibres<br>Easy sanded,Good with wood filler and wood stain<br>Very soft filament, after sanding very woodlike|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
+|Colorfabb CORKFILL|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
+|Colorfabb WOODFILL|Wood like structure, very light parts, very bright wood color<br>30% recycled woodfibres, PLA/PHA + fine pinewood fibres<br>Easy sanded,Good with wood filler and wood stain<br>Very soft filament, after sanding very woodlike|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Orbi-Tech TPU|||
 |NinjaTek Cheetah|||
 |NinjaTek Armadillo|||
