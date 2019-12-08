@@ -233,8 +233,8 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Formfutura MagicFill Thermo PLA|||
 |PolySmooth|||
 |uDiamond PLA by Carbodeon|||
-|DruckerRihno Marble PLA|PLA with Marlble effect is actually hard to come by. <br>It actually looks like marble|0.30<br>0.25<br>0.20<br>0.15<br>0.10<br>0.007|
-|Eryone Silk Blue PLA|PLA with a Silk feel and very shiny. <br>Hides layers well with 1.5 or less.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10<br>0.007|
+|DruckerRihno Marble PLA|PLA with Marlble effect is actually hard to come by. <br>It actually looks like marble|0.30<br>0.25<br>0.20<br>0.15<br>0.10<br>0.07|
+|Eryone Silk Blue PLA|PLA with a Silk feel and very shiny. <br>Hides layers well with 1.5 or less.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10<br>0.07|
 |Copper 3D PLACTIVE AN1 Antimicrobial Filament|NASA tested, kills 99.99% of fungi, viruses, bacteria<br> And a wide range of microorganisms. Can be thermoformed<br>Good layer adhesion, FDA approved, A bit stringy|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 
 ### Keywords 
