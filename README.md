@@ -127,6 +127,17 @@ Version: lastest
 
 This one:  https://www.thingiverse.com/thing:2989361
 
+### What else do i need to get into the game?
+
+Ok lets make a list:
+
+1. 3d parts to fit the volcano onto the mk3s(without Firmware mod): https://www.thingiverse.com/thing:2989361 or https://www.prusaprinters.org/prints/2105-full-print-volume-volcano-modification
+2. Volcano hotend (24V, direct drive, 175mm): https://e3d-online.com/volcano-hotend
+3. Nozzle X for the Vocano (go for 0.4 or 0.6mm): https://e3d-online.com/nozzlex-volcano
+4. Titanium Heatbreak (Better for cooling with the stock fan!): https://e3d-online.com/catalog/product/view/id/9284/s/v6-titanium-heat-break/
+5. Vocano Sock: https://e3d-online.com/silicone-socks-for-volcano-3pack
+
+
 ### Whats up with the profiles for the e3dv6 ?
 
 Well there was a time before the volcano and these are the profiles from that time. As saif before its hard to come by perfectly tuned profiles for a filament. There will be no update by me in the future for v6 profiles. But other people are welcome to contribute.
@@ -223,12 +234,12 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Proto-pasta Conductive PLA|||
 |Proto-pasta Magnetic Iron PLA|Filament that is feromagnetic, Filament that can RUST<br>PLA base|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
 |feelcolor Kanova materic Marble|k/canova mineral stone material,porous for sanding and coloring<br>Suitable for modeling like plaster/soap stone with knife<br>More perimters advised, GLUESTICK needed!,|0.20<br>0.15<br>0.10<br>0.07 beta|
-|Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water<br>Felt like feel, ||
+|Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
 |Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
 |EUMAKERS PLA Glow Blue|The favourite blue glowing PLA from  Eumakers|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
 |FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10|
-|feelcolor  HIPS filament |||
+|feelcolor  HIPS filament |Lighter than PLA, very light and rigid parts, High impact resistance<br> ABS like features, does not like fan|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Orbi-Tech PVA|||
 |Formfutura MagicFill Thermo PLA|||
 |PolySmooth|||
