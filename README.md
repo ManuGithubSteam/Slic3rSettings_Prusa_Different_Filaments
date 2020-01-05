@@ -239,7 +239,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |EUMAKERS PLA Glow Blue|The favourite blue glowing PLA from  Eumakers|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
 |FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10|
-|feelcolor  HIPS filament |Lighter than PLA, very light and rigid parts, High impact resistance<br> ABS like features, does not like fan|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|feelcolor  HIPS filament |Lighter than PLA, very light and rigid parts, High impact resistance<br> ABS like features, does not like fan, warping<br> dissolves in limone.|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
 |Orbi-Tech PVA|||
 |Formfutura MagicFill Thermo PLA|||
 |PolySmooth|||
