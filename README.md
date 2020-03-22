@@ -207,46 +207,47 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 
 |Filament|Special Properties|Volcano Profiles <br> 0.4mm Nozzle|
 |:--  | :--  | :--  | 
-|Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
-|Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
-|SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
-|FormFutura EASYWOOD|Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
-|FormFutura STONEFILL|50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!|0.25<br> 0.20<br>0.15<br>0.10|
-|FormFutura ApolloX ASA|For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen|0,25<br>0.20<br> 0.15<br>0.10|
-|FFFWORLD FlexiSmart TPU|Very soft TPU, Good for Cases<br>  Printabability = Medium|0.20|
 |3dk 3dkTOP|Heat resistant up to 230 Degrees <br> After curing, Food safe|0.20<br>0.15<br> 0.10|
-|Colorfabb nGen LUX|nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion|0.25<br>0.20<br> 0.15<br> 0.10|
-|Colorfabb nGen FLEX|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like|0.30<br>0.25<br>0.20<br>0.15|
-|Colorfabb STEELFILL|Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!|0.20<br> 0.15|
-|Colorfabb NGEN|nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX|0.25<br>0.20<br>0.15<br>0.10|
-|Colorfabb XT CF20|Very strong parts, matt finish, feels carbon like<br> Strong parts with gyroid infill and thickness of > 2mm<br> can snap at layer lines on very small parts<br> very good adheasion,Tg of 80°<br>very stiff, likes to form blobs on the extruder!<br> 20% carbon fiber|0.25<br>0.20<br>0.15<br>0.10|
-|Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
 |Colorfabb BROZEFILL|Feels like metal, heavy hefty feeling, very good surface finish<br> looks bronze-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.25<br>0.20<br>0.15<br>0.10<br>0.07|
+|Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
+|Colorfabb CORKFILL|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Colorfabb GLOWFILL|Green Glow at Night. Needs high infill for best glow<br>Very abrasive (more than CF!), use Steelnozzle<br>Glows for +9 months,Needs to be charged with strong light source|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Colorfabb HT|A bit Hydrophile, Temp resistant to 100 degrees<br>Super mechanical performance,greater toughness than XT<br>Super strong, nearly see trough, enclousure advised<br>FDA approved = Food safe|0.25<br>0.20<br>0.15<br>0.10 beta<br>0.07 beta|
+|Colorfabb NGEN|nGen Material, low shrinkage, no warping<br>Very strong interlayer adhesion<br> Glossy finish, Tg of 85, bonds well with ApolloX|0.25<br>0.20<br>0.15<br>0.10|
+|Colorfabb nGen FLEX|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like|0.30<br>0.25<br>0.20<br>0.15|
+|Colorfabb nGen LUX|nGen Material<br> Very sprakly in direct sunlight<br>Very strong interlayer adhesion|0.25<br>0.20<br> 0.15<br> 0.10|
 |Colorfabb PA-CF LOW WARP|Nylon Filament PA6 mixed with carbon fiber<br>low warp, temp resistant to 120 degrees<br> lower moisture absorbtion than nylon,very durable parts |Clogs the extruder easy, very hard to print<br> absorbs moisture really fast.|
-|Colorfabb CORKFILL|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
+|Colorfabb STEELFILL|Feromagnetic, Steel-Feel<br> 80% Steel powder<br> Good Post-Processing, Heavy<br> RECALIBRATE Z!!!|0.20<br> 0.15|
 |Colorfabb WOODFILL|Wood like structure, very light parts, very bright wood color<br>30% recycled woodfibres, PLA/PHA + fine pinewood fibres<br>Easy sanded,Good with wood filler and wood stain<br>Very soft filament, after sanding very woodlike|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
-|Orbi-Tech TPU|||
-|NinjaTek Cheetah|||
-|NinjaTek Armadillo|||
-|NinjaTek NinjaFlex |||
-|Proto-pasta Conductive PLA|||
-|Proto-pasta Magnetic Iron PLA|Filament that is feromagnetic, Filament that can RUST<br>PLA base|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
-|feelcolor Kanova materic Marble|k/canova mineral stone material,porous for sanding and coloring<br>Suitable for modeling like plaster/soap stone with knife<br>More perimters advised, GLUESTICK needed!,|0.20<br>0.15<br>0.10<br>0.07 beta|
-|Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
-|Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
-|EUMAKERS PLA Glow Blue|The favourite blue glowing PLA from  Eumakers|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
-|Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
-|FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10|
-|feelcolor  HIPS filament |Lighter than PLA, very light and rigid parts, High impact resistance<br> ABS like features, does not like fan, warping<br> dissolves in limone.|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
-|Orbi-Tech PVA|||
-|Formfutura MagicFill Thermo PLA|||
-|PolySmooth|||
-|uDiamond PLA by Carbodeon|||
+|Colorfabb XT CF20|Very strong parts, matt finish, feels carbon like<br> Strong parts with gyroid infill and thickness of > 2mm<br> can snap at layer lines on very small parts<br> very good adheasion,Tg of 80°<br>very stiff, likes to form blobs on the extruder!<br> 20% carbon fiber|0.25<br>0.20<br>0.15<br>0.10|
+|Copper 3D PLACTIVE AN1 Antimicrobial Filament|NASA tested, kills 99.99% of fungi, viruses, bacteria<br> And a wide range of microorganisms. Can be thermoformed<br>Good layer adhesion, FDA approved, A bit stringy|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |DruckerRihno Marble PLA|PLA with Marlble effect is actually hard to come by. <br>It actually looks like marble|0.30<br>0.25<br>0.20<br>0.15<br>0.10<br>0.07|
 |Eryone Silk Blue PLA|PLA with a Silk feel and very shiny. <br>Hides layers well with 1.5 or less.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10<br>0.07|
-|Copper 3D PLACTIVE AN1 Antimicrobial Filament|NASA tested, kills 99.99% of fungi, viruses, bacteria<br> And a wide range of microorganisms. Can be thermoformed<br>Good layer adhesion, FDA approved, A bit stringy|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|EUMAKERS PLA Glow Blue|The favourite blue glowing PLA from  Eumakers|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|feelcolor  HIPS filament |Lighter than PLA, very light and rigid parts, High impact resistance<br> ABS like features, does not like fan, warping<br> dissolves in limone.|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
+|feelcolor Kanova materic Marble|k/canova mineral stone material,porous for sanding and coloring<br>Suitable for modeling like plaster/soap stone with knife<br>More perimters advised, GLUESTICK needed!,|0.20<br>0.15<br>0.10<br>0.07 beta|
+|FFFWORLD FlexiSmart TPU|Very soft TPU, Good for Cases<br>  Printabability = Medium|0.20|
+|FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10|
+|FormFutura ApolloX ASA|For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen|0,25<br>0.20<br> 0.15<br>0.10|
+|FormFutura EASYWOOD|Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|Formfutura MagicFill Thermo PLA|||
+|FormFutura STONEFILL|50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!|0.25<br> 0.20<br>0.15<br>0.10|
+|Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
+|Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
+|Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
+|NinjaTek Armadillo|||
+|NinjaTek Cheetah|||
+|NinjaTek NinjaFlex |||
+|Orbi-Tech PVA|||
+|Orbi-Tech TPU|||
+|PolySmooth|||
+|Proto-pasta Conductive PLA|||
+|Proto-pasta Magnetic Iron PLA|Filament that is feromagnetic, Filament that can RUST<br>PLA base|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
+|Prusament PLA|Very good PLA Quality, 0.02 Tolerance|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
+|Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
+|SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
+|uDiamond PLA by Carbodeon|||
 
 ### Keywords 
 
