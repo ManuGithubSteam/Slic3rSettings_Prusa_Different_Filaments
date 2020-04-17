@@ -18,7 +18,7 @@ You can keep the 0.4 quality and still get print speeds increasing up to 50%.
 
 So here is it: My Configs for Slic3er/PrusaSlicer with a Volcano hotend and a 0.4mm nozzle. 
 
-I’ve worked with each of these profiles, but make no warranty as to their suitability for use on your printer. Be careful if you have not calibrated your current nozzle and Live-Z settings of your volcano. I have done some basic prints using each of these settings, but they are all “experimental” and not guaranteed perfect. Most of them I calibrated with 50g filament samples. Use at your own risk!
+I have worked with each of these profiles, but make no warranty as to their suitability for use on your printer. Be careful if you have not calibrated your current nozzle and Live-Z settings of your volcano. I have done some basic prints using each of these settings, but they are all “experimental” and not guaranteed perfect. Most of them I calibrated with 50g filament samples. Use at your own risk!
 
 ### How much improvement are we talking?
 
@@ -246,7 +246,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |NinjaTek Armadillo|||
 |NinjaTek Cheetah|||
 |NinjaTek NinjaFlex |||
-|Orbi-Tech PVA|||
+|Orbi-Tech PVA|PVA Filament, soluble in water, for support. Absorbs moisture in the air, strigy but manageable.|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
 |Orbi-Tech TPU|||
 |PolySmooth|||
 |Proto-pasta Conductive PLA|||
