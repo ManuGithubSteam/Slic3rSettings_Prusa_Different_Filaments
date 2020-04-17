@@ -113,7 +113,7 @@ __3D Printer:__
 
 Model: Prusa i3 Mk3s
 
-Firmware: 3.7.0 // 3.8 has some bugs so i wait for 3.8.1
+Firmware: 3.9.0 RC1 // 3.8 has some bugs so i wait for 3.8.1
 
 These notes are based on my experiences with the Prusa i3 Mk3s printer. If you are using a different printer, please verify the hardware details are the same. 
 
@@ -137,6 +137,9 @@ Ok lets make a list:
 4. Titanium Heatbreak (Better for cooling with the stock fan!): https://e3d-online.com/catalog/product/view/id/9284/s/v6-titanium-heat-break/
 5. Vocano Sock: https://e3d-online.com/silicone-socks-for-volcano-3pack
 
+### What should i do after install of the Vocano ?
+
+Do a PID Tuning to get the heater up to speed for the bigger bloc.
 
 ### Whats up with the profiles for the e3dv6 ?
 
@@ -149,6 +152,11 @@ Yes you can. You just have to adjust the MVS value in the Filament and Print Set
 ### What is the quality like with a Volcano and 0.4 nozzle ?
 
 - See the picture folder.
+
+### On what machines where these profiles tested ?
+
+- Prusa i3 MK3S
+- Tevo Tarantula Pro
 
 ## How can I contribute ?
 
