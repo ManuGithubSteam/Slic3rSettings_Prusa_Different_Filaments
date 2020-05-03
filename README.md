@@ -204,6 +204,51 @@ The profiles go in subfolders here ~.PrusaSilcer:
 3) - filament folder
 -> The Rest of them in the folder
 
+### Start-GCode since Firmware 3.9.x ?
+
+Prusa changed some workflow in the new Firmware 3.9 since then im not able to do a MeshBedLeveling while the bed is hot.
+Its a wired glitch on my machine (too much modding i assume) and should not inpact you in any way.
+
+However to continue to do profiles and of course prints i was forced to change the Gcode for the printer. Please keept that in mind. The profiles should work for you out of the box but the MBL will be done at first before heating.
+
+Old Gcode:
+
+M115 U3.7.1 ; tell printer latest fw version
+G90 ; use absolute coordinates
+M83 ; extruder relative mode
+M104 S150; set extruder temp
+M140 S[first_layer_bed_temperature] ; set bed temp
+M190 S[first_layer_bed_temperature] ; wait for bed temp
+M109 S150 ; wait for extruder temp
+G28 W ; home all without mesh bed level
+G82 ; mesh bed leveling
+M104 S[first_layer_temperature] ; set extruder temp
+M109 S[first_layer_temperature] ; wait for extruder temp
+G1 Y-3.0 F1000.0 ; go outside print area
+G92 E0.0
+G1 X60.0 E9.0 F1000.0 ; intro line
+G1 X100.0 E12.5 F1000.0 ; intro line
+G92 E0.0
+M221 S{if layer_height<0.075}100{else}95{endif}
+
+
+New one:
+
+G80 ; mesh bed leveling
+G90 ; use absolute coordinates
+M83 ; extruder relative mode
+M140 S[first_layer_bed_temperature] ; set bed temp
+M104 S[first_layer_temperature] ; set extruder temp
+M190 S[first_layer_bed_temperature] ; wait for bed temp
+M109 S[first_layer_temperature] ; wait for extruder temp
+G1 Y-3.0 F1000.0 ; go outside print area
+G92 E0.0
+G1 X60.0 E9.0 F1000.0 ; intro line
+G1 X100.0 E12.5 F1000.0 ; intro line
+G92 E0.0
+M221 S{if layer_height<0.075}100{else}95{endif}
+
+
 ### Can i use the Profiles with Slic3er ?
 
 Well maybe, the projects are forked and go slightly different directions. So im not sure...
@@ -215,7 +260,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 
 |Filament|Special Properties|Volcano Profiles <br> 0.4mm Nozzle|
 |:--  | :--  | :--  | 
-|3dk 3dkTOP|Heat resistant up to 230 Degrees <br> After curing, Food safe|0.20<br>0.15<br> 0.10|
+|3dk 3dkTOP|Heat resistant up to 230 Degrees <br> After curing, Food safe|0.20<br>0.15<br>0.10|
 |Colorfabb BROZEFILL|Feels like metal, heavy hefty feeling, very good surface finish<br> looks bronze-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.25<br>0.20<br>0.15<br>0.10<br>0.07|
 |Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
 |Colorfabb CORKFILL|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
@@ -256,6 +301,10 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
 |SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
 |uDiamond PLA by Carbodeon|||
+|Extrudr NX2 PLA|UV resistant and food safe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Colorfabb LW PLA|||
+|Lay Filaments Laywood Flex|||
+|feelcolor  matt PLA |||
 
 ### Keywords 
 
