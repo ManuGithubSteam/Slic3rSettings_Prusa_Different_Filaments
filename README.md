@@ -331,7 +331,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |uDiamond PLA by Carbodeon|||
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
 |Colorfabb LW PLA|||
-|Lay Filaments Laywood Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. <br>__HANDLING:__ - Make sure to unload after printing. <br>- To long sittings in the extruder can jam it. <br>- Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
+|Lay Filaments Laywood Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. <br>__HANDLING:__ <br>- Make sure to unload after printing. <br>- To long sittings in the extruder can jam it. <br>- Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 
 ### Keywords 
