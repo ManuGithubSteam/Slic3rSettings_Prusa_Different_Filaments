@@ -211,7 +211,7 @@ Its a wired glitch on my machine (too much modding i assume) and should not inpa
 
 However to continue to do profiles and of course prints i was forced to change the Gcode for the printer. Please keept that in mind. The profiles should work for you out of the box but the MBL will be done at first before heating.
 
-Old Gcode:
+__Old Gcode:__
 
 M115 U3.7.1 ; tell printer latest fw version
 
@@ -248,7 +248,7 @@ G92 E0.0
 M221 S{if layer_height<0.075}100{else}95{endif}
 
 
-New one:
+__New one:__
 
 G80 ; mesh bed leveling
 
