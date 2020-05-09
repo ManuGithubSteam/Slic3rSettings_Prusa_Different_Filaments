@@ -329,11 +329,11 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
 |SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
 |uDiamond PLA by Carbodeon|||
-|Extrudr NX2 PLA|UV resistant and food safe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
 |Colorfabb LW PLA|||
-|Lay Filaments Laywood Flex|||
-|feelcolor  matt PLA |||
+|Lay Filaments Laywood Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. HANDLING: - Make sure to unload after printing. - To long sittings in the extruder can jam it. - Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
+|feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 
 ### Keywords 
 
-slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle" Volcano Slicer Profiles, Volcano hotend slic3r profiles, cura, slic3r, Prusa i3, Prusament, Filament, Slicing profiles, 3d printing, 3d printing profiles, 3d printer slicer, 3d printing slicer, 3d print, 3d printer, 3d slicer, stl slicer, slic3r profiles, prusa volcano, prusa i3 volcano, prusa volcano upgrade, prusa volcano hotend,
+slicing REAL FILAMENT real Real Filament Filament filament 3d printer 3d printing Filament Types "Real Filament" Real Filament slicing settings "Real Filament slicing settings" "Real Filament settings" PET-G / PET (Polyethylene terephthalate) "Real filament print settings" Volcano "volcano Hotend 0.4 Nozzle" Volcano Slicer Profiles, Volcano hotend slic3r profiles, cura, slic3r, Prusa i3, Prusament, Filament, Slicing profiles, 3d printing, 3d printing profiles, 3d printer slicer, 3d printing slicer, 3d print, 3d printer, 3d slicer, stl slicer, slic3r profiles, prusa volcano, prusa i3 volcano, prusa volcano upgrade, prusa volcano hotend, colorfabb vocalno profiles, filament volcano profiles, 3d printer volcano upgrade, ender volcano upgrade, special filaments volcano, special filaments volcano settings, volcano settings for colorfabb, volcano settings for formfutura, FormFutura volcano profiles, Lay filamtens, experimental filaments, faster printing
