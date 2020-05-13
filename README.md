@@ -281,6 +281,11 @@ M221 S{if layer_height<0.075}100{else}95{endif}
 
 Well maybe, the projects are forked and go slightly different directions. So im not sure...
 
+
+### Can i use the Profiles with the standard v6 hotend ?
+
+Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other viscous filaments. MSV will calculate down your max speeds so you can use these profiles with non volcano hotends and even with totoaly dierent hotends like the Tevo or whatever. Just know your MVS for that hotend.
+
 ### For what filemants can I find PrusaSlicer Settings ?
 
 ----
@@ -290,7 +295,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |:--  | :--  | :--  | 
 |3dk 3dkTOP|Heat resistant up to 230 Degrees <br> After curing, Food safe|0.20<br>0.15<br>0.10|
 |Colorfabb BROZEFILL|Feels like metal, heavy hefty feeling, very good surface finish<br> looks bronze-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.25<br>0.20<br>0.15<br>0.10<br>0.07|
-|Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adheasion<br> looks neat and interisting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
+|Colorfabb COPPERFILL|Feels like copper, heavy hefty feeling, very good surface finish<br> looks copper-like after post processing, good adhesion<br> looks neat and interesting with larger layer, easy to print|0.20<br>0.15<br>0.10<br>0.07|
 |Colorfabb CORKFILL|Cork like structure, very very light parts, very dark cork color<br>30% corkfibres, PLA/PHA + fine corkwood fibres<br>Easy sanded,Good with wood filler and wood stain<br> after sanding very<br> very light stringing, no layers visible at 0.1mm|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Colorfabb GLOWFILL|Green Glow at Night. Needs high infill for best glow<br>Very abrasive (more than CF!), use Steelnozzle<br>Glows for +9 months,Needs to be charged with strong light source|0.25<br>0.20<br>0.15<br>0.10<br>0.07 beta|
 |Colorfabb HT|A bit Hydrophile, Temp resistant to 100 degrees<br>Super mechanical performance,greater toughness than XT<br>Super strong, nearly see trough, enclousure advised<br>FDA approved = Food safe|0.25<br>0.20<br>0.15<br>0.10 beta<br>0.07 beta|
@@ -316,9 +321,9 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
 |Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
 |Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
-|NinjaTek Armadillo|||
-|NinjaTek Cheetah|||
-|NinjaTek NinjaFlex |||
+|NinjaTek Armadillo|This has still a bit of flex to it. But the use case of Armadillo is that you can mill it and drill trought it etc. So its a very high performing rigid material, providing 90% higher abrasion resistance than nylon materials||
+|NinjaTek Cheetah|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like, a little bit stringy.|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|NinjaTek NinjaFlex |Shore Hardness of 85A, the wet noodle we all love.|Run out of test filament while makeing a profile. Im close… Its uploaded|
 |Orbi-Tech PVA|PVA Filament, soluble in water, for support. Absorbs moisture in the air, strigy but manageable.|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
 |Orbi-Tech TPU|||
 |PolySmooth|||
@@ -331,7 +336,7 @@ Well maybe, the projects are forked and go slightly different directions. So im 
 |uDiamond PLA by Carbodeon|||
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
 |Colorfabb LW PLA|||
-|Lay Filaments Laywood Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. <br>__HANDLING:__ <br>- Make sure to unload after printing. <br>- To long sittings in the extruder can jam it. <br>- Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
+|Lay Filaments Laywoo-3D Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. <br>__HANDLING:__ <br>- Make sure to unload after printing. <br>- To long sittings in the extruder can jam it. <br>- Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 
 ### Keywords 
