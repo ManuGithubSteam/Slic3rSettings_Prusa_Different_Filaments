@@ -321,7 +321,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
 |Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
 |Lay Filaments MoldLay|Wax like filament, for lost mold casting<br>Gets water liquid at 275 degrees, let cool down the print!<br>Prints molds for permanent casting and for lost-wax casting.|0.25<br>0.20<br>0.15 beta|
-|NinjaTek Armadillo|This has still a bit of flex to it. But the use case of Armadillo is that you can mill it and drill trought it etc. So its a very high performing rigid material, providing 90% higher abrasion resistance than nylon materials||
+|NinjaTek Armadillo|This has still a bit of flex to it. But the use case of Armadillo is that you can mill it and drill trought it etc. So its a very high performing rigid material, providing 90% higher abrasion resistance than nylon materials|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |NinjaTek Cheetah|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like, a little bit stringy.|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |NinjaTek NinjaFlex |Shore Hardness of 85A, the wet noodle we all love.|Run out of test filament while makeing a profile. Im close… Its uploaded|
 |Orbi-Tech PVA|PVA Filament, soluble in water, for support. Absorbs moisture in the air, strigy but manageable.|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
