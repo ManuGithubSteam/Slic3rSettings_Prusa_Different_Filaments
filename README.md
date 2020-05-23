@@ -325,18 +325,16 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |NinjaTek Cheetah|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like, a little bit stringy.|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |NinjaTek NinjaFlex |Shore Hardness of 85A, the wet noodle we all love.|Run out of test filament while makeing a profile. Im close… Its uploaded|
 |Orbi-Tech PVA|PVA Filament, soluble in water, for support. Absorbs moisture in the air, strigy but manageable.|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
-|Orbi-Tech TPU|||
 |PolySmooth|||
-|Proto-pasta Conductive PLA|||
 |Proto-pasta Magnetic Iron PLA|Filament that is feromagnetic, Filament that can RUST<br>PLA base|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
 |Prusament PLA|Very good PLA Quality, 0.02 Tolerance|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 |Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
 |Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
 |SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
-|uDiamond PLA by Carbodeon|||
+|uDiamond PLA by Carbodeon|PLA with very fast print speed! External with 40mm and looking good. Infill with 220mm and working.High strength|High stiffness|
+|Printing speed up to 500mm/s. Heat Deflection Temperature 95C,0.30||0.25||0.20||0.15||0.10|
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
-|Colorfabb LW PLA|||
-|Lay Filaments Laywoo-3D Flex|Flexible Wood Filament (40 % Wood). Think Formfutura Easywood + Colorfabb Ngen Flex. Can be painted and post processed as wood. Very Stringy and Brittle. <br>__HANDLING:__ <br>- Make sure to unload after printing. <br>- To long sittings in the extruder can jam it. <br>- Also do not print lower than 200!|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
+|Lay Filaments Laywoo-3D Flex|Heat Deflection Temperature 95Â°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 
 ### Keywords 
