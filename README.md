@@ -325,7 +325,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |NinjaTek Cheetah|Semi-Flex, easy to print<br> Very good layer adheasion, rubber like, a little bit stringy.|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |NinjaTek NinjaFlex |Shore Hardness of 85A, the wet noodle we all love.|Run out of test filament while makeing a profile. Im close… Its uploaded|
 |Orbi-Tech PVA|PVA Filament, soluble in water, for support. Absorbs moisture in the air, strigy but manageable.|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
-|PolySmooth||0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|PolySmooth|PLA like, brittle, small stringing. The surface can be smoothed with ISO 90% alcohol to achieve layer free models|0.30<br>0.25<br>0.20<br>0.15<br>0.10<br>0.07|
 |Proto-pasta Magnetic Iron PLA|Filament that is feromagnetic, Filament that can RUST<br>PLA base|0.30<br>0.25<br>0.20<br>0.15<br>0.10 beta|
 |Prusament PLA|Very good PLA Quality, 0.02 Tolerance|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 |Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
@@ -336,6 +336,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
 |Lay Filaments Laywoo-3D Flex|Heat Deflection Temperature 95Â°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
+|eSun PETG|Good Chinese PETG, a bit stringy, felxible does not break easy.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
 
 ### Keywords 
 
