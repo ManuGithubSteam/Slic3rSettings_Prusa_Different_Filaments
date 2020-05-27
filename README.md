@@ -331,8 +331,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |Prusament PETG|Good PETG Quality, 0.02 Tolerance<br>Food safe, Good adhesion|0.35<br>0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
 |Real PETG|Good PETG Quality, Alternative to Prusament<br>Food safe, Good adhesion, a bit runny|0.35<br>0.30<br> 0.25<br>0.20<br> 0.15<br> 0.10|
 |SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
-|uDiamond PLA by Carbodeon|PLA with very fast print speed! External with 40mm and looking good. Infill with 220mm and working.High strength|High stiffness|
-|Printing speed up to 500mm/s. Heat Deflection Temperature 95C,0.30||0.25||0.20||0.15||0.10|
+|uDiamond PLA by Carbodeon|PLA with very fast print speed! External with 40mm and looking good.<br>  Infill with 220mm and working. High strength,High stiffness.<br> Printing speed up to 500mm/s. Heat Deflection Temperature 95C|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
 |Lay Filaments Laywoo-3D Flex|Heat Deflection Temperature 95°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
