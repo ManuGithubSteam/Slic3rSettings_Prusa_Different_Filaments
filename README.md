@@ -213,74 +213,44 @@ However to continue to do profiles and of course prints i was forced to change t
 
 __Old Gcode:__
 
-M115 U3.7.1 ; tell printer latest fw version
-
-G90 ; use absolute coordinates
-
-M83 ; extruder relative mode
-
-M104 S150; set extruder temp
-
-M140 S[first_layer_bed_temperature] ; set bed temp
-
-M190 S[first_layer_bed_temperature] ; wait for bed temp
-
-M109 S150 ; wait for extruder temp
-
-G28 W ; home all without mesh bed level
-
-G82 ; mesh bed leveling
-
-M104 S[first_layer_temperature] ; set extruder temp
-
-M109 S[first_layer_temperature] ; wait for extruder temp
-
-G1 Y-3.0 F1000.0 ; go outside print area
-
-G92 E0.0
-
-G1 X60.0 E9.0 F1000.0 ; intro line
-
-G1 X100.0 E12.5 F1000.0 ; intro line
-
-G92 E0.0
-
-M221 S{if layer_height<0.075}100{else}95{endif}
+    M115 U3.7.1 ; tell printer latest fw version
+    G90 ; use absolute coordinates
+    M83 ; extruder relative mode
+    M104 S150; set extruder temp
+    M140 S[first_layer_bed_temperature] ; set bed temp
+    M190 S[first_layer_bed_temperature] ; wait for bed temp
+    M109 S150 ; wait for extruder temp
+    G28 W ; home all without mesh bed level
+    G82 ; mesh bed leveling
+    M104 S[first_layer_temperature] ; set extruder temp
+    M109 S[first_layer_temperature] ; wait for extruder temp
+    G1 Y-3.0 F1000.0 ; go outside print area
+    G92 E0.0
+    G1 X60.0 E9.0 F1000.0 ; intro line
+    G1 X100.0 E12.5 F1000.0 ; intro line
+    G92 E0.0
+    M221 S{if layer_height<0.075}100{else}95{endif}
 
 
 __New one:__
 
-G80 ; mesh bed leveling
-
-G90 ; use absolute coordinates
-
-M83 ; extruder relative mode
-
-M140 S[first_layer_bed_temperature] ; set bed temp
-
-M104 S[first_layer_temperature] ; set extruder temp
-
-M190 S[first_layer_bed_temperature] ; wait for bed temp
-
-M109 S[first_layer_temperature] ; wait for extruder temp
-
-G1 Y-3.0 F1000.0 ; go outside print area
-
-G92 E0.0
-
-G1 X60.0 E9.0 F1000.0 ; intro line
-
-G1 X100.0 E12.5 F1000.0 ; intro line
-
-G92 E0.0
-
-M221 S{if layer_height<0.075}100{else}95{endif}
-
+    G80 ; mesh bed leveling
+    G90 ; use absolute coordinates
+    M83 ; extruder relative mode
+    M140 S[first_layer_bed_temperature] ; set bed temp
+    M104 S[first_layer_temperature] ; set extruder temp
+    M190 S[first_layer_bed_temperature] ; wait for bed temp
+    M109 S[first_layer_temperature] ; wait for extruder temp
+    G1 Y-3.0 F1000.0 ; go outside print area
+    G92 E0.0
+    G1 X60.0 E9.0 F1000.0 ; intro line
+    G1 X100.0 E12.5 F1000.0 ; intro line
+    G92 E0.0
+    M221 S{if layer_height<0.075}100{else}95{endif}
 
 ### Can i use the Profiles with Slic3er ?
 
 Well maybe, the projects are forked and go slightly different directions. So im not sure...
-
 
 ### Can i use the Profiles with the standard v6 hotend ?
 
@@ -316,7 +286,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |FiloAlfa ALFAsilk filament|Silk Filament made out AFA Filament, a bit elastic<br> Pretty to look at. Layers get hidden well.<br> Good impact resitance. Glossy.|0.30<br>0.25<br>0.20<br>0.15<br>0.12<br>0.10|
 |FormFutura ApolloX ASA|For outside applications, UV-Resistant<br>Prone to warping, need enclosure<br> nice finish, ABS like, bonds well with ngen|0,25<br>0.20<br> 0.15<br>0.10|
 |FormFutura EASYWOOD|Wood filament with 40 % Wood<br>Feels and smells like real Wood<br>Good layer masking|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
-|FormFutura MAGICFILL Thermo PLA|PLA that changes color when warmer then 29 degrees. Below that ist is black and with more heat it goes from black, to grey to milk wihte at 55 degreds. Slightly stringy|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
+|FormFutura MAGICFILL Thermo PLA|PLA that changes color when warmer then 31 degrees. Below that ist is black and with more heat it goes from black, to grey to milk white at 100 degrees. Slightly stringy. Not that usefull if you want color change with body temp.|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |FormFutura STONEFILL|50% Stone powder, PLA<br> Stone like look, and a bit of a feel<br>Recalibrate Z!|0.25<br> 0.20<br>0.15<br>0.10|
 |Kanesis Weed filament|Hemp filament with 20% Hemp, rought texture.<br> Clogs Hotend EASILY! Do remove after printing. <br>Do NOT Print above 165 degrees!.|Will for now not make a profile. <br>Hotend clogs to easy|
 |Lay Filaments Lay-Felt Poro-Lay|Expermimental filament!, gets soft when submerged in water,feels like wet paper or cloth, stays flexible as long as moist, very stringy!!|0.30<br>0,25<br>0.20<br> 0.15<br> 0.10|
@@ -336,6 +306,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |Lay Filaments Laywoo-3D Flex|Heat Deflection Temperature 95°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 |eSun PETG|Good Chinese PETG, a bit stringy, felxible does not break easy.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Topzeal COLORCHANGE TCC PLA|Color change PLA with real colors from grey, white, yellow and red. Easy to print. Little stringing.||
 
 ### Keywords 
 
