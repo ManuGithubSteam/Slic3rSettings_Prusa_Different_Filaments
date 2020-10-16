@@ -303,10 +303,10 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |SainSmart Pro-PETG|PETG, 0.02 Tolerance<br>Food safe, Good adhesion, a bit brittle, problematic to print with lower layer heights<br> medium surface finish, better for practical stuff|0.35<br>0.30<br>0.25<br>0.20<br> 0.15|
 |uDiamond PLA by Carbodeon|PLA with very fast print speed! External with 40mm and looking good.<br>  Infill with 220mm and working. High strength,High stiffness.<br> Printing speed up to 500mm/s. Heat Deflection Temperature 95C|0.30<br>0.25<br>0.20<br>0.15<br>0.10|
 |Extrudr NX2 PLA|UV resistant and foodsafe PLA, has some better druability features. It has also a matt very good look to it. Best looks with 0.15 or lower, looks better than feelcolor PLA|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07|
-|Lay Filaments Laywoo-3D Flex|Heat Deflection Temperature 95Â°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
+|Lay Filaments Laywoo-3D Flex|Wood with some flex to it, heat Deflection Temperature 95°C|0.30<br>0.25<br>0.20<br> 0.15<br>0.12<br>0.10 beta|
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
-|eSun PETG|Good Chinese PETG, a bit stringy, felxible does not break easy.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
-|Topzeal COLORCHANGE TCC PLA|Color change PLA with real colors from grey, white, yellow and red. Easy to print. Little stringing.||
+|eSun PETG|Good Chinese PETG, a bit stringy, very felxible for PETG, does not break easy.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Topzeal COLORCHANGE TCC PLA|Color change PLA with real colors from grey, white, yellow and red. Easy to print. Little stringing.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
 
 ### Keywords 
 
