@@ -123,6 +123,16 @@ Type: PrusaSlicer
 
 Version: lastest
 
+### Are other printers supported?
+
+Yes every printer who can work with PrusaSilcer will work.
+
+Tested with:
+
+ - Prusa Mk2
+ - Tevo Tarantula Pro
+ - Basically all i3 Variants should work fine if they have a Volcano
+ 
 ### What mod do you use the fit the Volcano onto the Prusa Mk3s?
 
 This one:  https://www.thingiverse.com/thing:2989361
@@ -153,10 +163,9 @@ Yes you can. You just have to adjust the MVS value in the Filament and Print Set
 
 - See the picture folder.
 
-### On what machines where these profiles tested ?
+### On what machines where these profiles tested and refined ?
 
 - Prusa i3 MK3S
-- Tevo Tarantula Pro
 
 ## How can I contribute ?
 
