@@ -316,6 +316,7 @@ Well yes. Just make sure to set the MVS to 11 for PLA or 8 for PETG and other vi
 |feelcolor  Matt PLA |Foodsafe PLA with matt finish|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 |eSun PETG|Good Chinese PETG, a bit stringy, very felxible for PETG, does not break easy.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
 |Topzeal COLORCHANGE TCC PLA|Color change PLA with real colors from grey, white, yellow and red. Easy to print. Little stringing.|0.30<br>0.25<br>0.20<br> 0.15<br>0.10<br> 0.07 beta|
+|Prusament ASA|ASA Material, UV stable, ABS alternative, Temp resistant to 93 degrees, acetone smoothable|0.30<br>0.25<br>0.20<br> 0.15<br>0.10|
 
 ### Keywords 
 
